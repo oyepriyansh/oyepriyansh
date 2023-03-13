@@ -55,7 +55,7 @@
 <details>
   <summary> URL Shortener </summary>
   <br>
-<a href="https://mitly.ml"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>  &nbsp; <a href="https://github.com/oyepriyansh/url-shortener"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
+<a href="https://url.priyansh.app"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>  &nbsp; <a href="https://github.com/oyepriyansh/url-shortener"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
   
 </details>
 
