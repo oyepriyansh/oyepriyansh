@@ -81,7 +81,7 @@
 
 ## <a href="#-github-stats"><img src="https://oyepriyansh.pages.dev/526015297887404052.gif" width="40"></a> GitHub Stats
 <div align="center"><a href="#-github-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </a> </div> <br>
 
 <a href="#-lets-connect"> 
