@@ -98,6 +98,8 @@
 
 <a href="mailto:hi@priyansh.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574484.svg"> </a>
 
+<a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" height="63px"> </a>
+
 <a href="https://discord.com/invite/AeAjegXn6D" target="_blank"><img src="https://invidget.switchblade.xyz/AeAjegXn6D" height="80"> 
 
 <a href="#--thank-you"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
