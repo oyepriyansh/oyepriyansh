@@ -15,7 +15,7 @@
 - More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio </a>
 
 <div>
-<a href="https://github.com/sponsors/oyepriyansh" target="_blank"><img src="https://priyansh.pages.dev/c/images/sponser.png" height="26px">&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=oyepriyansh&style=flat-square&color=000000" height="24px"> </a>
+<a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=oyepriyansh&style=flat-square&color=000000" height="24px"> </a>
 </div>
 
 <a href="#-skills"> 
@@ -101,6 +101,12 @@
 <a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" height="63px"> </a>
 
 <a href="https://discord.com/invite/AeAjegXn6D" target="_blank"><img src="https://invidget.switchblade.xyz/AeAjegXn6D" height="80"> 
+
+<a href="##-tips-are-appreciated"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
+
+## <a href="#-tips-are-appreciated"><img src="https://oyepriyansh.pages.dev/918555162522583050.gif" width="40"></a> Tips are appreciated
+
+
 
 <a href="#--thank-you"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
 
