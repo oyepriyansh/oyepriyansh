@@ -82,19 +82,19 @@
 ## <a href="#-github-stats"><img src="https://oyepriyansh.pages.dev/526015297887404052.gif" width="40"></a> GitHub Stats
 <a href="#-github-stats">
 
+<a href="#-github-stats"> <img src="https://oye-priyansh.pages.dev/github_stats.svg" width="350px"> </a> 
+
 <a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyepriyansh&layout=compact&theme=transparent" width="350px"> </a> 
 
 <a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" width="350px"> </a>  
 
 <a href="#-github-stats"> <img src="https://streak-stats.demolab.com?user=oyepriyansh&theme=transparent&border_radius=5&fire=FF0000" width="350px"> </a> 
 
-<a href="#-github-stats"> <img src="https://oye-priyansh.pages.dev/github_stats.svg" width="350px"> </a> 
-
 <a href="#-lets-connect"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
 </a> 
 
-# <a href="#-lets-connect"><img src="https://oyepriyansh.pages.dev/526015297887404053.gif" width="40"></a> Let's Connect 
+## <a href="#-lets-connect"><img src="https://oyepriyansh.pages.dev/526015297887404053.gif" width="40"></a> Let's Connect 
 
 <a href="https://instagram.com/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574481.svg"> </a>
 
@@ -110,7 +110,7 @@
 
 <a href="#-tips-are-appreciated"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
 
-# <a href="#-tips-are-appreciated"><img src="https://oyepriyansh.pages.dev/918555162522583050.gif" width="40"></a> Tips are appreciated
+## <a href="#-tips-are-appreciated"><img src="https://oyepriyansh.pages.dev/918555162522583050.gif" width="40"></a> Tips are appreciated
 
 - <a href="https://github.com/sponsors/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205452.svg"> 
 
