@@ -80,7 +80,7 @@
 </a> 
 
 ## <a href="#-github-stats"><img src="https://oyepriyansh.pages.dev/526015297887404052.gif" width="40"></a> GitHub Stats
-<div align="center"><a href="#-github-stats">
+<a href="#-github-stats">
 
 <a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyepriyansh&layout=compact&theme=transparent" width="350px"> </a> 
 
@@ -88,7 +88,6 @@
 
 <a href="#-github-stats"> <img src="https://streak-stats.demolab.com?user=oyepriyansh&theme=transparent&border_radius=5&fire=FF0000" width="350px"> </a> 
 
-</div> 
 
 <a href="#-lets-connect"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
