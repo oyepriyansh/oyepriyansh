@@ -88,6 +88,7 @@
 
 <a href="#-github-stats"> <img src="https://streak-stats.demolab.com?user=oyepriyansh&theme=transparent&border_radius=5&fire=FF0000" width="350px"> </a> 
 
+<a href="#-github-stats"> <img src="https://oye-priyansh.pages.dev/github_stats.svg" width="350px"> </a> 
 
 <a href="#-lets-connect"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
