@@ -94,7 +94,7 @@
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
 </a> 
 
-## <a href="#-lets-connect"><img src="https://oyepriyansh.pages.dev/526015297887404053.gif" width="40"></a> Let's Connect 
+# <a href="#-lets-connect"><img src="https://oyepriyansh.pages.dev/526015297887404053.gif" width="40"></a> Let's Connect 
 
 <a href="https://instagram.com/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574481.svg"> </a>
 
@@ -110,7 +110,7 @@
 
 <a href="#-tips-are-appreciated"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
 
-## <a href="#-tips-are-appreciated"><img src="https://oyepriyansh.pages.dev/918555162522583050.gif" width="40"></a> Tips are appreciated
+# <a href="#-tips-are-appreciated"><img src="https://oyepriyansh.pages.dev/918555162522583050.gif" width="40"></a> Tips are appreciated
 
 - <a href="https://github.com/sponsors/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205452.svg"> 
 
