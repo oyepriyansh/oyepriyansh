@@ -108,7 +108,7 @@
 
 <a href="https://discord.com/invite/AeAjegXn6D" target="_blank"><img src="https://invidget.switchblade.xyz/AeAjegXn6D" height="80"> 
 
-<a href="##-tips-are-appreciated"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
+<a href="#-tips-are-appreciated"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
 
 ## <a href="#-tips-are-appreciated"><img src="https://oyepriyansh.pages.dev/918555162522583050.gif" width="40"></a> Tips are appreciated
 
