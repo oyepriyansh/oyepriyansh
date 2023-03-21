@@ -102,6 +102,8 @@
 
 <a href="https://youtube.com/@oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574483.svg"> </a>
 
+<a href="https://linkedin.com/in/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/4582284679828558.svg"> </a>
+
 <a href="mailto:hi@priyansh.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574484.svg"> </a>
 
 <a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" height="63px"> </a>
