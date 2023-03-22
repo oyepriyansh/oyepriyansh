@@ -111,13 +111,13 @@
 ## <a href="#-github-stats"><img src="https://oyepriyansh.pages.dev/526015297887404052.gif" width="40"></a> GitHub Stats
 <a href="#-github-stats">
 
-<a href="#-github-stats"> <img src="https://oye-priyansh.pages.dev/github_stats.svg" width="320px"> </a> 
+<a href="#-github-stats"> <img src="https://oye-priyansh.pages.dev/github_stats.svg" width="350px"> </a> 
 
-<a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyepriyansh&layout=compact&theme=radical" width="320px"> </a> 
+<a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyepriyansh&layout=compact&theme=radical" width="350px"> </a> 
 
-<a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical" width="320px"> </a>  
+<a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical" width="350px"> </a>  
 
-<a href="#-github-stats"> <img src="https://streak-stats.demolab.com?user=oyepriyansh&amp;theme=radical&amp;border_radius=5&amp;fire=FF0000&amp;sideLabels=FFFFFF" width="320px"> </a> 
+<a href="#-github-stats"> <img src="https://streak-stats.demolab.com?user=oyepriyansh&amp;theme=radical&amp;border_radius=5&amp;fire=FF0000&amp;sideLabels=FFFFFF" width="350px"> </a> 
 
 <a href="#-lets-connect"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
@@ -135,9 +135,9 @@
 
 <a href="mailto:hi@priyansh.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574484.svg"> </a>
 
-<a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" width="320px"> </a>
+<a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" width="350px"> </a>
 
-<a href="https://discord.com/invite/AeAjegXn6D" target="_blank"><img src="https://invidget.switchblade.xyz/AeAjegXn6D" width="320px"> 
+<a href="https://discord.com/invite/AeAjegXn6D" target="_blank"><img src="https://invidget.switchblade.xyz/AeAjegXn6D" width="350px"> 
 
 <a href="#-tips-are-appreciated"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
 
