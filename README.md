@@ -65,14 +65,18 @@
   <summary> Image tear animation </summary>
   <br>
 
- <a href="https://oyepriyansh.github.io/image-tear-animation"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> &nbsp; <a href="https://www.youtube.com/shorts/LD_lKVquclw"><img src="https://oyepriyansh.pages.dev/8850493629363773842.svg"></a> &nbsp; <a href="https://github.com/oyepriyansh/image-tear-animation"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
+- <a href="https://oyepriyansh.github.io/image-tear-animation"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>
+- <a href="https://www.youtube.com/shorts/LD_lKVquclw"><img src="https://oyepriyansh.pages.dev/8850493629363773842.svg"></a>
+- <a href="https://github.com/oyepriyansh/image-tear-animation"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
   
 </details>
 
 <details>
   <summary> URL Shortener </summary>
   <br>
-<a href="https://url.priyansh.app"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>  &nbsp; <a href="https://github.com/oyepriyansh/url-shortener"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
+
+- <a href="https://url.priyansh.app"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
+- <a href="https://github.com/oyepriyansh/url-shortener"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
   
 </details>
 
@@ -80,7 +84,9 @@
   <summary> Image Filter App  </summary>
   <br>
   
-<a href="https://oyepriyansh.github.io/image-filter-app"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> &nbsp; <a href="https://youtube.com/shorts/bgAUrcPo3YY"><img src="https://oyepriyansh.pages.dev/8850493629363773842.svg"></a> &nbsp; <a href="https://github.com/oyepriyansh/image-filter-app/"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
+- <a href="https://oyepriyansh.github.io/image-filter-app"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>
+- <a href="https://youtube.com/shorts/bgAUrcPo3YY"><img src="https://oyepriyansh.pages.dev/8850493629363773842.svg"></a>
+- <a href="https://github.com/oyepriyansh/image-filter-app/"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
   
 </details>
 
@@ -88,7 +94,9 @@
   <summary> Legend Form</summary>
   <br>
   
-  <a href="https://oyepriyansh.github.io/legend-form"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> &nbsp; <a href="https://www.youtube.com/shorts/2QzUf5-75r4"><img src="https://oyepriyansh.pages.dev/8850493629363773842.svg"></a> &nbsp; <a href="https://github.com/oyepriyansh/legend-form"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
+- <a href="https://oyepriyansh.github.io/legend-form"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>
+- <a href="https://www.youtube.com/shorts/2QzUf5-75r4"><img src="https://oyepriyansh.pages.dev/8850493629363773842.svg"></a>
+- <a href="https://github.com/oyepriyansh/legend-form"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
   
 </details>
 
