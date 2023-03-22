@@ -135,9 +135,9 @@
 
 <a href="mailto:hi@priyansh.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574484.svg"> </a>
 
-<a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" width="350px"> </a>
+<a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" width="320px"> </a>
 
-<a href="https://discord.com/invite/AeAjegXn6D" target="_blank"><img src="https://invidget.switchblade.xyz/AeAjegXn6D" width="350px"> 
+<a href="https://discord.com/invite/AeAjegXn6D" target="_blank"><img src="https://invidget.switchblade.xyz/AeAjegXn6D" width="320px"> 
 
 <a href="#-tips-are-appreciated"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
 
