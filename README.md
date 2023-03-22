@@ -32,16 +32,20 @@
     - <a href="https://getbootstrap.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612651.svg"> </a>
     - <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612652.svg"> </a>
 
+
 - Languages:
     - <a href="https://python.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612653.svg"> </a>
     - <a href="https://w3schools.com/cpp" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014614.svg"> </a>
+
   
 - Software & Tools:
     - <a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014615.svg"> </a>
     - <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014617.svg"> </a>
 
+
 - Database:
     - <a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/5156465465465462.svg"> </a>
+
 
 - Cloud hosting:
     - <a href="https://pages.github.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612659.svg"> </a>
