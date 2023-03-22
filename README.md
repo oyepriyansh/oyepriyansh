@@ -9,10 +9,10 @@
 
 <picture> <a href="#-about-me"> <img align="right" src="https://oyepriyansh.pages.dev/559426961516757824.gif" width="180px"> </a> </picture>
 
-- I'm a first year BCA student
-- An aspirant web developer
-- Currently improving my skills by self
-- More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio </a>
+- I'm a first year BCA student.
+- An aspirant web developer.
+- Currently improving my skills by self.
+- More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio</a>.
 
 <div>
 <a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=oyepriyansh&style=flat-square&color=000000" height="24px"> </a>
@@ -24,19 +24,36 @@
 
 ## <a href="#-skills"><img src="https://oyepriyansh.pages.dev/534756564728422850580.gif" width="40"></a> Skills
 
--  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014611.svg"> </a>
 
--  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014612.svg"> </a>
+- Front-End Development:
+    - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014611.svg"> </a>
+    - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014612.svg"> </a>
+    - <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014613.svg"> </a>
+    - <a href="https://getbootstrap.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612651.svg"> </a>
+    - <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612652.svg"> </a>
 
-- <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014613.svg"> </a>
+- Languages:
+    - <a href="https://python.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612653.svg"> </a>
+    - <a href="https://w3schools.com/cpp" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014614.svg"> </a>
+  
+- Software & Tools:
+    - <a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014615.svg"> </a>
+    - <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014617.svg"> </a>
 
-- <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014614.svg"> </a>
+- Database:
+    - <a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/5156465465465462.svg"> </a>
 
-- <a href="https://www.markdownguide.org/getting-started" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014618.svg"> </a>
- 
-- <a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014615.svg"> </a>
+- Cloud hosting:
+    - <a href="https://pages.github.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612659.svg"> </a>
+    - <a href="https://pages.dev" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612654.svg"> </a>
+    - <a href="https://repl.it" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612658.svg"> </a>
+    - <a href="https://vercel.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612657.svg"> </a>
+    - <a href="https://netlify.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612655.svg"> </a>
+    - <a href="https://heroku.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612656.svg"> </a>
 
-- <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014617.svg"> </a>
+- Extras:
+    - <a href="https://www.markdownguide.org/getting-started" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014618.svg"> </a>
+    - <a href="https://linux.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/5156465465465461.svg"> </a>
 
 <a href="#-projects"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
