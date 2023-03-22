@@ -86,7 +86,7 @@
 
 <a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyepriyansh&layout=compact&theme=transparent" width="350px"> </a> 
 
-<a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent" width="350px"> </a>  
+<a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=transparent" width="350px"> </a>  
 
 <a href="#-github-stats"> <img src="https://streak-stats.demolab.com?user=oyepriyansh&theme=transparent&border_radius=5&fire=FF0000" width="350px"> </a> 
 
