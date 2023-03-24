@@ -5,7 +5,7 @@
 </div>
 <h1 align="center"> Hi there <a href="#-hi-there--im-priyansh-prajapat-"><img src="https://oyepriyansh.pages.dev/7833685191810089554.gif" width="30px"></a> I'm Priyansh Prajapat </h1>
 
-<a href="#-hi-there--im-priyansh-prajapat-"><img src="https://oyepriyansh.pages.dev/838946.svg"></a>
+<a href="#-hi-there--im-priyansh-prajapat-"><img src="https://oyepriyansh.pages.dev/838946.svg" align="center"></a>
 ## <a href="#-about-me"><img src="https://oyepriyansh.pages.dev/557628352828014620.gif" width="40"></a> About Me
 
 <picture> <a href="#-about-me"> <img align="right" src="https://oyepriyansh.pages.dev/559426961516757824.gif" width="180px"> </a> </picture>
