@@ -117,6 +117,9 @@
 
 <a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyepriyansh&layout=compact&theme=radical" width="350px"> </a> 
 
+<!-- 
+<a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical" width="350px"> </a>  
+-->
 
 <a href="#-github-stats"> <img src="https://streak-stats.demolab.com?user=oyepriyansh&amp;theme=radical&amp;border_radius=5&amp;fire=FF0000&amp;sideLabels=FFFFFF" width="350px"> </a> 
 
