@@ -14,7 +14,7 @@
 <br>
 
 - I'm a first year BCA student.
-- An aspirant web developer.
+- self taught Front-End Web developer.
 - Currently improving my skills by self.
 - More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio</a>.
 
