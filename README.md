@@ -62,7 +62,7 @@
 - Extras:
     - <a href="https://www.markdownguide.org/getting-started" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014618.svg"> </a>
     - <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/521654141541154.svg"> </a>
-
+    - <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://oyepriyansh.pages.dev/651564654564.svg"> </a>
 <a href="#-projects"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
 </a> 
