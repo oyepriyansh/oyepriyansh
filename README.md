@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://oyepriyansh.pages.dev" target="_blank">
-    <img src="https://oyepriyansh.pages.dev/logo.png" height="100" width="100"  style="border-radius: 50%;">
+    <img src="https://oyepriyansh.pages.dev/pfp.png" height="100" width="100"  style="border-radius: 50%;">
   </a>
 </div>
 <h1 align="center"> Hi there <a href="#-hi-there--im-priyansh-prajapat-"><img src="https://oyepriyansh.pages.dev/7833685191810089554.gif" width="30px"></a> I'm Priyansh Prajapat </h1>
