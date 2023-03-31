@@ -30,39 +30,29 @@
 
 
 - Front-End Development:
-    - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014611.svg"> </a>
-    - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014612.svg"> </a>
-    - <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014613.svg"> </a>
-    - <a href="https://getbootstrap.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612651.svg"> </a>
-    - <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612652.svg"> </a>
+
+ &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/html.svg" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/css.svg" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/js.svg"  width="35"> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/bootstrap.svg"  width="35"> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/tailwind.svg"  width="35"> </a>
 
 
 - Languages:
-    - <a href="https://python.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612653.svg"> </a>
-    - <a href="https://w3schools.com/cpp" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014614.svg"> </a>
+
+ &nbsp; <a href="https://python.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/py.svg" width="35"> </a> <a href="https://w3schools.com/cpp" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/cpp.svg" width="35"> </a>
 
   
 - Software & Tools:
-    - <a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014615.svg"> </a>
-    - <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014617.svg"> </a>
 
-
-- Database:
-    - <a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/5156465465465462.svg"> </a>
+&nbsp; <a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/git.svg" width="35"> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vscode.svg" width="35"> </a>
 
 
 - Cloud hosting:
-    - <a href="https://pages.github.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612659.svg"> </a>
-    - <a href="https://pages.dev" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612654.svg"> </a>
-    - <a href="https://repl.it" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612658.svg"> </a>
-    - <a href="https://vercel.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612657.svg"> </a>
-    - <a href="https://netlify.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612655.svg"> </a>
-    - <a href="https://heroku.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/51256506515612656.svg"> </a>
+
+&nbsp; <a href="https://pages.github.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ghpages.png" width="35"> </a> <a href="https://pages.dev" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/cloudflare.svg" width="35"> </a> <a href="https://repl.it" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/replit.svg" width="35"> </a> <a href="https://vercel.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vercel.svg" width="35"> </a> <a href="https://netlify.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/netlify.svg" width="35"> </a> <a href="https://heroku.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/heroku.svg" width="35"> </a>
 
 - Extras:
-    - <a href="https://www.markdownguide.org/getting-started" target="_blank"> <img src="https://oyepriyansh.pages.dev/557628352828014618.svg"> </a>
-    - <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/521654141541154.svg"> </a>
-    - <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://oyepriyansh.pages.dev/651564654564.svg"> </a>
+
+&nbsp; &nbsp; <a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/mongodb.svg" width="35"> </a>
+ <a href="https://www.markdownguide.org/getting-started" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/md.svg" width="35"> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ubuntu.svg" width="35"> </a>  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/windows.png" width="35"> </a>
+
 <a href="#-projects"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
 </a> 
