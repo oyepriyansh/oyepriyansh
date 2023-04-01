@@ -1,10 +1,10 @@
 <div align="center">
+  <h1> जय माता दी (JAI MATA DI) 🙏 </h1>
+  
   <a href="https://oyepriyansh.pages.dev" target="_blank">
     <img src="https://oyepriyansh.pages.dev/pfp.png" height="100" width="100"  style="border-radius: 50%;">
   </a>
 </div>
-<h1 align="center"> Hi there <a href="#-hi-there--im-priyansh-prajapat-"><img src="https://oyepriyansh.pages.dev/7833685191810089554.gif" width="30px"></a> I'm Priyansh Prajapat </h1>
-
 <p align="center"> <a href="#-hi-there--im-priyansh-prajapat-"><img src="https://oyepriyansh.pages.dev/838946.svg"></a> </p>
 
 ## <a href="#-about-me"><img src="https://oyepriyansh.pages.dev/557628352828014620.gif" width="40"></a> About Me
