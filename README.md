@@ -5,7 +5,7 @@
     <img src="https://oyepriyansh.pages.dev/pfp.png" height="100" width="100"  style="border-radius: 50%;">
   </a>
 </div>
-<p align="center"> <a href="#-hi-there--im-priyansh-prajapat-"><img src="https://oyepriyansh.pages.dev/838946.svg"></a> </p>
+<p align="center"> <a href="#hi"><img src="https://oyepriyansh.pages.dev/838946.svg"></a> </p>
 
 ## <a href="#-about-me"><img src="https://oyepriyansh.pages.dev/557628352828014620.gif" width="40"></a> About Me
 
