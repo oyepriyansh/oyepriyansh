@@ -13,9 +13,10 @@
 
 <br>
 
-- I'm a first year BCA student.
-- self taught Front-End Web developer.
-- Currently improving my skills by self.
+- I am currently a first-year BCA student and a passionate Self-taught Front-end developer.
+- Currently learning Web Development by Self
+- In my free time, I enjoy watching anime and playing games to relax and unwind.
+- Have an idea? Let's collaborate! Email me at hi@priyansh.app.
 - More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio</a>.
 
 <div>
