@@ -13,8 +13,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer.
 - I am currently a first-year BCA student.
+- A passionate Self-taught Front-end developer.
 - Currently learning Web Development by Self.
 - In my free time, I enjoy watching anime and playing games to relax and unwind.
 - Have an idea? Let’s collaborate! Email me at <a href="mailto:hi@priyansh.app" target="_blank">hi@priyansh.app</a>.
