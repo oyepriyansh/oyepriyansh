@@ -147,11 +147,7 @@
 
 - <a href="https://ko-fi.com/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205454.svg"> 
 
-- <a href="https://giftapp.com/priyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205450.svg"> 
-
 - <a href="https://www.paypal.com/paypalme/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205455.svg"> 
-
-- <a href="https://patreon.com/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205457.svg"> 
 
 <a href="#--thank-you"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
 
