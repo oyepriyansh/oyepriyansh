@@ -12,14 +12,16 @@
 <picture> <a href="#-about-me"> <img align="right" src="https://oyepriyansh.pages.dev/559426961516757824.gif"></a> </picture> 
 
 <br>
-
-- I am currently a first-year BCA student and a passionate Self-taught Front-end developer.
-- Currently learning Web Development by Self
-- In my free time, I enjoy watching anime and playing games to relax and unwind.
-- Have an idea? Let's collaborate! Email me at hi@priyansh.app.
-- More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio</a>.
-
+<div style="margin-right: 100px;">
+<ul>
+  <li>I am currently a first-year BCA student and a passionate Self-taught Front-end developer.</li>
+  <li>Currently learning Web Development by Self</li>
+  <li>In my free time, I enjoy watching anime and playing games to relax and unwind.</li>
+  <li>Have an idea? Let’s collaborate! Email me at <a href="mailto:hi@priyansh.app" target="_blank">hi@priyansh.app</a>.</li>
+  <li>More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio</a>.</li>
+</ul>
 <div>
+ 
 <a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=oyepriyansh&style=flat-square&color=000000" height="24px"> </a>
 </div>
 
