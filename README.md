@@ -9,7 +9,7 @@
 
 ## <a href="#-about-me"><img src="https://oyepriyansh.pages.dev/557628352828014620.gif" width="40"></a> About Me
 
-<picture>  <img align="right" src="https://oyepriyansh.pages.dev/559426961516757824.gif"> </picture> 
+<picture> <img align="right" src="https://oyepriyansh.pages.dev/559426961516757824.gif" width = 250px></picture>
 
 <br>
 
