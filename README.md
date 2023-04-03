@@ -9,7 +9,6 @@
 
 ## <a href="#-about-me"><img src="https://oyepriyansh.pages.dev/557628352828014620.gif" width="40"></a> About Me
 
-<picture> <a href="#-about-me"> <img align="right" src="https://oyepriyansh.pages.dev/559426961516757824.gif"> </a> </picture>
 
 - I am currently a first-year BCA student.
 - A passionate Self-taught Front-end developer.
