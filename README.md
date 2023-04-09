@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> जय माता दी (JAI&nbsp;MATA&nbsp;DI) 🙏 </h1>
+  <h2> जय माता दी (JAI&nbsp;MATA&nbsp;DI) 🙏 </h2>
   <br>
   <a href="https://oyepriyansh.pages.dev" target="_blank">
     <img src="https://oyepriyansh.pages.dev/pfp.png" height="100" width="100"  style="border-radius: 50%;">
