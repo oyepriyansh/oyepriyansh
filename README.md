@@ -39,7 +39,7 @@
   
 - Software & Tools:
 
-&nbsp; <a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/git.svg" width="35"> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vscode.svg" width="35"> </a>
+&nbsp; <a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/git.svg"  title="Git" width="35"> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vscode.svg"  title="Visual Studio Code" width="35"> </a>
 
 
 - Cloud hosting:
