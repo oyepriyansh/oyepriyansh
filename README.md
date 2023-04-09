@@ -29,12 +29,12 @@
 
 - Front-End Development:
 
- &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/html.svg" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/css.svg" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/js.svg"  width="35"> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/bootstrap.svg"  width="35"> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/tailwind.svg"  width="35"> </a>
+ &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/html.svg" title="HTML" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/css.svg" title="CSS" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/js.svg" title-"Javascript" width="35"> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/bootstrap.svg" title="Bootstrap" width="35"> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/tailwind.svg" title="Tailwind CSS" width="35"> </a>
 
 
 - Languages:
 
- &nbsp; <a href="https://python.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/py.svg" width="35"> </a> <a href="https://w3schools.com/cpp" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/cpp.svg" width="35"> </a>
+ &nbsp; <a href="https://python.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/py.svg" tItle="Python" width="35"> </a> <a href="https://w3schools.com/cpp" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/cpp.svg" title="C++" width="35"> </a>
 
   
 - Software & Tools:
@@ -44,12 +44,12 @@
 
 - Cloud hosting:
 
-&nbsp; <a href="https://pages.github.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ghpages.png" width="35"> </a> <a href="https://pages.dev" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/cloudflare.svg" width="35"> </a> <a href="https://repl.it" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/replit.svg" width="35"> </a> <a href="https://vercel.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vercel.svg" width="35"> </a> <a href="https://netlify.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/netlify.svg" width="35"> </a> <a href="https://heroku.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/heroku.svg" width="35"> </a>
+&nbsp; <a href="https://pages.github.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ghpages.png" title="GitHub Pages" width="35"> </a> <a href="https://pages.dev" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/cloudflare.svg" title="Cloudflare Pages" width="35"> </a> <a href="https://repl.it" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/replit.svg" title="Replit" width="35"> </a> <a href="https://vercel.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vercel.svg" title="Vercel" width="35"> </a> <a href="https://netlify.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/netlify.svg" title="Netlify" width="35"> </a> <a href="https://heroku.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/heroku.svg" title="Heroku" width="35"> </a>
 
 - Extras:
 
-&nbsp; &nbsp; <a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/mongodb.svg" width="35"> </a>
- <a href="https://www.markdownguide.org/getting-started" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/md.svg" width="35"> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ubuntu.svg" width="35"> </a>  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/windows.png" width="35"> </a>
+&nbsp; &nbsp; <a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/mongodb.svg" title="MongoDB" width="35"> </a>
+ <a href="https://www.markdownguide.org/getting-started" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/md.svg" title="Markdown" width="35"> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ubuntu.svg"  title="Ubuntu (Linux)" width="35"> </a>  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/windows.png"  title="Windows" width="35"> </a>
 
 <a href="#-projects"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
