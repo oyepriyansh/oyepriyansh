@@ -29,7 +29,7 @@
 
 - Front-End Development:
 
- &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/html.svg" title="HTML" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/css.svg" title="CSS" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/js.svg" title-"Javascript" width="35"> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/bootstrap.svg" title="Bootstrap" width="35"> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/tailwind.svg" title="Tailwind CSS" width="35"> </a>
+ &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/html.svg" title="HTML" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/css.svg" title="CSS" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/js.svg" title="Javascript" width="35"> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/bootstrap.svg" title="Bootstrap" width="35"> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/tailwind.svg" title="Tailwind CSS" width="35"> </a>
 
 
 - Languages:
