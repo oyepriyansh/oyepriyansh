@@ -96,6 +96,24 @@
   
 </details>
 
+<details>
+  <summary> Password Generator </summary>
+  <br>
+
+- <a href="https://oyepriyansh.github.io/password-generator"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
+- <a href="https://github.com/oyepriyansh/password-generator"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
+  
+</details>
+
+<details>
+  <summary> To Do List </summary>
+  <br>
+
+- <a href="https://oyepriyansh.github.io/ToDoList"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
+- <a href="https://github.com/oyepriyansh/ToDoList"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
+  
+</details>
+
 <a href="#-github-stats"> 
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
 </a> 
