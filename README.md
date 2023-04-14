@@ -157,15 +157,7 @@
 
 ## <a href="#become-a-sponsor"><img src="https://oyepriyansh.pages.dev/918555162522583050.gif" width="40"></a>Become a sponsor
 
-- <a href="https://github.com/sponsors/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205452.svg"> 
-
-- <a href="https://oyepriyansh.pages.dev/upi"><img src="https://oyepriyansh.pages.dev/2740203457350205458.svg"> 
-
-- <a href="https://buymeacoffee.com/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205453.svg">
-
-- <a href="https://ko-fi.com/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205454.svg"> 
-
-- <a href="https://www.paypal.com/paypalme/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205455.svg"> 
+<a href="https://github.com/sponsors/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205452.svg"> </a> &nbsp; <a href="https://oyepriyansh.pages.dev/upi"><img src="https://oyepriyansh.pages.dev/2740203457350205458.svg"> </a> &nbsp; <a href="https://buymeacoffee.com/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205453.svg"> </a> &nbsp; <a href="https://ko-fi.com/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205454.svg"> </a> &nbsp; <a href="https://www.paypal.com/paypalme/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205455.svg"> 
 
 <a href="#--thank-you"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
 
