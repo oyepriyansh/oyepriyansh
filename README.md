@@ -20,9 +20,9 @@
 <a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=oyepriyansh&style=flat-square&color=000000" height="24px"> </a>
 </div>
 
-<a href="#-skills"> 
-<img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
-</a> 
+<a href="#-skills">
+<img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
+</a>
 
 ## <a href="#-skills"><img src="https://oyepriyansh.pages.dev/534756564728422850580.gif" width="40"></a> Skills
 
@@ -36,7 +36,7 @@
 
  &nbsp; <a href="https://python.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/py.svg" tItle="Python" width="35"> </a> <a href="https://w3schools.com/cpp" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/cpp.svg" title="C++" width="35"> </a>
 
-  
+
 - Software & Tools:
 
 &nbsp; <a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/git.svg"  title="Git" width="35"> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vscode.svg"  title="Visual Studio Code" width="35"> </a>
@@ -51,9 +51,9 @@
 &nbsp; &nbsp; <a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/mongodb.svg" title="MongoDB" width="35"> </a>
  <a href="https://www.markdownguide.org/getting-started" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/md.svg" title="Markdown" width="35"> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ubuntu.svg"  title="Ubuntu (Linux)" width="35"> </a>  <a href="https://www.microsoft.com/en-in/windows" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/windows.png"  title="Windows" width="35"> </a>
 
-<a href="#-projects"> 
-<img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
-</a> 
+<a href="#-projects">
+<img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
+</a>
 
 ## <a href="#-projects"><img src="https://oyepriyansh.pages.dev/745716128281657445.gif" width="40"></a> Projects
 
@@ -64,7 +64,7 @@
 - <a href="https://oyepriyansh.github.io/image-tear-animation"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>
 - <a href="https://www.youtube.com/shorts/LD_lKVquclw"><img src="https://oyepriyansh.pages.dev/8850493629363773842.svg"></a>
 - <a href="https://github.com/oyepriyansh/image-tear-animation"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-  
+
 </details>
 
 <details>
@@ -73,27 +73,27 @@
 
 - <a href="https://url.priyansh.app"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
 - <a href="https://github.com/oyepriyansh/url-shortener"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-  
+
 </details>
 
 <details>
   <summary> Image Filter App  </summary>
   <br>
-  
+
 - <a href="https://oyepriyansh.github.io/image-filter-app"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>
 - <a href="https://youtube.com/shorts/bgAUrcPo3YY"><img src="https://oyepriyansh.pages.dev/8850493629363773842.svg"></a>
 - <a href="https://github.com/oyepriyansh/image-filter-app/"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-  
+
 </details>
 
 <details>
   <summary> Legend Form</summary>
   <br>
-  
+
 - <a href="https://oyepriyansh.github.io/legend-form"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>
 - <a href="https://www.youtube.com/shorts/2QzUf5-75r4"><img src="https://oyepriyansh.pages.dev/8850493629363773842.svg"></a>
 - <a href="https://github.com/oyepriyansh/legend-form"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-  
+
 </details>
 
 <details>
@@ -102,7 +102,7 @@
 
 - <a href="https://oyepriyansh.github.io/password-generator"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
 - <a href="https://github.com/oyepriyansh/password-generator"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-  
+
 </details>
 
 <details>
@@ -111,29 +111,29 @@
 
 - <a href="https://oyepriyansh.github.io/ToDoList"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
 - <a href="https://github.com/oyepriyansh/ToDoList"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-  
+
 </details>
 
-<a href="#-github-stats"> 
-<img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
-</a> 
+<a href="#-github-stats">
+<img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
+</a>
 
 ## <a href="#-github-stats"><img src="https://oyepriyansh.pages.dev/526015297887404052.gif" width="40"></a> GitHub Stats
 <a href="#-github-stats">
 
-<a href="#-github-stats"> <img src="https://oye-priyansh.pages.dev/github_stats.svg" width="350px"> </a> 
+<a href="#-github-stats"> <img src="https://oye-priyansh.pages.dev/github_stats.svg" width="350px"> </a>
 
 <a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyepriyansh&layout=compact&theme=radical" width="350px"> </a> 
 
-<!-- 
+<!--
 <a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical" width="350px"> </a>  
 -->
 
 <a href="#-github-stats"> <img src="https://streak-stats.demolab.com?user=oyepriyansh&amp;theme=radical&amp;border_radius=5&amp;fire=FF0000&amp;sideLabels=FFFFFF" width="350px"> </a> 
 
-<a href="#-lets-connect"> 
-<img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> 
-</a> 
+<a href="#-lets-connect">
+<img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
+</a>
 
 ## <a href="#-lets-connect"><img src="https://oyepriyansh.pages.dev/526015297887404053.gif" width="40"></a> Let's Connect 
 
