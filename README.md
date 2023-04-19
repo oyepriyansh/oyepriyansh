@@ -17,7 +17,7 @@
 - Have an idea? Let’s collaborate! Email me at <a href="mailto:hi@priyansh.app" target="_blank">hi@priyansh.app</a>.
 - More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio</a>.
 
-<a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=oyepriyansh&style=flat-square&color=000000" height="24px"> </a>
+<!-- <a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=oyepriyansh&style=flat-square&color=000000" height="24px"> </a> -->
 </div>
 
 <a href="#-skills">
