@@ -3,10 +3,16 @@
   <br>
   <a href="https://oyepriyansh.pages.dev" target="_blank">
     <img src="https://oyepriyansh.pages.dev/pfp.png" height="120" width="120" title="Priyansh Prajapat" alt="Priyansh Prajapat" style="border-radius: 50%;">
+    <img src="https://oyepriyansh.pages.dev/838946.svg">
   </a>
 </div>
 
-<p align="center"> <a href="#hi"><img src="https://oyepriyansh.pages.dev/838946.svg"></a> </p>
+```js
+const userDetails = {
+  name: 'Priyansh Prajapat',
+  username: '@oyepriyansh'
+};
+```
 
 ## <a href="#-about-me"><img src="https://oyepriyansh.pages.dev/557628352828014620.gif" width="40"></a> About Me
 
