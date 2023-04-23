@@ -149,9 +149,7 @@ const userDetails = {
 ## <a href="#-lets-connect"><img src="https://oyepriyansh.pages.dev/526015297887404053.gif" width="40"></a> Let's Connect 
 
 <a href="https://instagram.com/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574481.svg"> </a> &nbsp; <a href="https://twitter.com/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574482.svg"> </a>
-
 <a href="https://youtube.com/@oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574483.svg"> </a> &nbsp; <a href="https://linkedin.com/in/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/4582284679828558.svg"> </a>
-
 <a href="https://snapchat.com/add/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/515226546563265.svg"> </a> &nbsp; <a href="mailto:hi@priyansh.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574484.svg"> </a>
 
 <a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" width="350px"> </a>
