@@ -167,8 +167,3 @@ const userDetails = {
 <a href="#--thank-you"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
 
 <h2 align="center"> ❤ THANK YOU!</h2>
-<p align="center">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&section=footer">
-  </a> 
-</p>
