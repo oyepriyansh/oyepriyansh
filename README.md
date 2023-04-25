@@ -169,6 +169,6 @@ const userDetails = {
 <h2 align="center"> ❤ THANK YOU!</h2>
 <p align="center">
   <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&section=footer">
   </a> 
 </p>
