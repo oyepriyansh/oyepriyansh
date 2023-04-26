@@ -132,7 +132,7 @@ const userDetails = {
 ## <a href="#-github-stats"><img src="https://oyepriyansh.pages.dev/526015297887404052.gif" width="40"></a> GitHub Stats
 <a href="#-github-stats">
 
-<a href="#-github-stats"> <img src="https://oye-priyansh.pages.dev/github_stats.svg" width="350px"> </a>
+<a href="#-github-stats"> <img src="github_stats.svg" width="350px"> </a>
 
 <a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyepriyansh&layout=compact&theme=radical" width="350px"> </a> 
 
