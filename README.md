@@ -8,7 +8,7 @@
 
 <div align="center">
  <a href="#oyepriyansh" target="_blank">
-   <img src="https://oyepriyansh.pages.dev/838946.svg">
+   <img src="typing-text.svg">
  </a>
 </div>
 
