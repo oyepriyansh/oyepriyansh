@@ -88,7 +88,7 @@ const userDetails = {
 </details>
 
 <details>
-  <summary> Mind Reader </summary>
+  <summary> Mind Reader AI</summary>
   <br>
 
 - <a href="https://oyepriyansh.github.io/mind-reader"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
