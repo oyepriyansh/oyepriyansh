@@ -88,6 +88,15 @@ const userDetails = {
 </details>
 
 <details>
+  <summary> Mind Reader </summary>
+  <br>
+
+- <a href="https://oyepriyansh.github.io/mind-reader"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
+- <a href="https://github.com/oyepriyansh/mind-reader"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
+
+</details>
+
+<details>
   <summary> Image Filter App  </summary>
   <br>
 
