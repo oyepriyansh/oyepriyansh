@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="8MIsyO3F8rn24F_2b6ldexzQ5YcmQAkhX662PAXHVJc" />
+<head><meta name="google-site-verification" content="8MIsyO3F8rn24F_2b6ldexzQ5YcmQAkhX662PAXHVJc" /></head>
 <div align="center">
   <h2> जय&nbsp;श्री&nbsp;राम (JAI&nbsp;SHREE&nbsp;RAM) 🙏 </h2>
   <br>
