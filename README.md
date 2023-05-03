@@ -60,15 +60,6 @@ const userDetails = {
 ## <a href="#-projects"><img src="https://oyepriyansh.pages.dev/745716128281657445.gif" width="40"></a> Projects
 
 <details>
-  <summary> Image tear animation </summary>
-  <br>
-
-- <a href="https://oyepriyansh.github.io/image-tear-animation"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>
-- <a href="https://github.com/oyepriyansh/image-tear-animation"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-
-</details>
-
-<details>
   <summary> URL Shortener </summary>
   <br>
 
