@@ -63,69 +63,11 @@ const userDetails = {
   <summary> URL Shortener </summary>
   <br>
 
-- <a href="https://url.priyansh.app"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
 - <a href="https://github.com/oyepriyansh/url-shortener"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
 
 </details>
 
-
-<details>
-  <summary> Chrome homepage </summary>
-  <br>
-
-- <a href="https://oyepriyansh.github.io/chrome-homepage"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
-- <a href="https://github.com/oyepriyansh/chrome-homepage"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-
-</details>
-
-<details>
-  <summary> Mind Reader AI</summary>
-  <br>
-
-- <a href="https://oyepriyansh.github.io/mind-reader"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
-- <a href="https://github.com/oyepriyansh/mind-reader"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-
-</details>
-
-<details>
-  <summary> Image Filter App  </summary>
-  <br>
-
-- <a href="https://oyepriyansh.github.io/image-filter-app"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>
-- <a href="https://github.com/oyepriyansh/image-filter-app/"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-
-</details>
-
-<details>
-  <summary> Legend Form</summary>
-  <br>
-
-- <a href="https://oyepriyansh.github.io/legend-form"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a>
-- <a href="https://github.com/oyepriyansh/legend-form"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-
-</details>
-
-<details>
-  <summary> Password Generator </summary>
-  <br>
-
-- <a href="https://oyepriyansh.github.io/password-generator"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
-- <a href="https://github.com/oyepriyansh/password-generator"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-
-</details>
-
-<details>
-  <summary> To Do List </summary>
-  <br>
-
-- <a href="https://oyepriyansh.github.io/ToDoList"><img src="https://oyepriyansh.pages.dev/5594269661517571.svg"></a> 
-- <a href="https://github.com/oyepriyansh/ToDoList"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-
-</details>
-
-<a href="#-github-stats">
-<img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
-</a>
+Some other of my projects can be found [here](https://github.com/itxpp)
 
 ## <a href="#-github-stats"><img src="https://oyepriyansh.pages.dev/526015297887404052.gif" width="40"></a> GitHub Stats
 <a href="#-github-stats">
