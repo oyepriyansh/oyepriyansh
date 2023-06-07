@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Priyansh
-I'm a passionate self-taught front-end developer from India.
+I'm a passionate self-taught front-end developer from India. 
 
 ✨️ Learn more about me on my [portfolio](https://oye.pages.dev/6b9qyb). <br>
 💻 Find more of my projects [here](http://oye.pages.dev/6f6r5h). <br>
