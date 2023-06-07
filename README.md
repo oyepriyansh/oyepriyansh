@@ -1,109 +1,14 @@
-<head><meta name="google-site-verification" content="8MIsyO3F8rn24F_2b6ldexzQ5YcmQAkhX662PAXHVJc" /></head>
-<div align="center">
-  <h2> जय&nbsp;श्री&nbsp;राम (JAI&nbsp;SHREE&nbsp;RAM) 🙏 </h2>
-  <br>
-  <a href="https://oyepriyansh.pages.dev" target="_blank">
-    <img src="https://oyepriyansh.pages.dev/pfp.png" height="120" width="120" title="Priyansh Prajapat" alt="Priyansh Prajapat" style="border-radius: 50%;">
- </a>
-</div>
+# 👋 Hi, I'm Priyansh
 
-<div align="center">
- <a href="#oyepriyansh" target="_blank">
-   <img src="assets/typing-text.svg">
- </a>
-</div>
+I'm a passionate self-taught front-end developer from India.
 
-```js
-const userDetails = {
-  name: 'Priyansh Prajapat',
-  username: '@oyepriyansh'
-};
-```
+✨️ Learn more about me on my [portfolio](https://oye.pages.dev/6b9qyb). <br>
+💻 Find more of my projects [here](http://oye.pages.dev/6f6r5h). <br>
+💌 You can reach me via email at [hi@priyansh.app](mailto:hi@priyansh.app).
 
-## <a href="#-about-me"><img src="https://oyepriyansh.pages.dev/557628352828014620.gif" width="40"></a> About Me
+## Connect with me
 
-- I am currently a BCA student.
-- A passionate Self-taught Front-end developer.
-- Currently learning Web Development by Self.
-- In my free time, I enjoy watching anime and playing games to relax and unwind.
-- Have an idea? Let’s collaborate! Email me at <a href="mailto:hi@priyansh.app" target="_blank">hi@priyansh.app</a>.
-- More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio</a>.
-
-<!-- <a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=oyepriyansh&style=flat-square&color=000000" height="24px"> </a> -->
-
-<a href="#-skills">
-<img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
-</a>
-
-## <a href="#-skills"><img src="https://oyepriyansh.pages.dev/534756564728422850580.gif" width="40"></a> Skills
-
-
-- Front-End Development:
-
- &nbsp; &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/html.svg" title="HTML" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/css.svg" title="CSS" width="35"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JAVASCRIPT" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/js.svg" title="Javascript" width="35"> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/bootstrap.svg" title="Bootstrap" width="35"> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/tailwind.svg" title="Tailwind CSS" width="35"> </a>
-
-
-- Languages:
-
- &nbsp; &nbsp;<a href="https://python.org" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/py.svg" tItle="Python" width="35"> </a> <a href="https://w3schools.com/cpp" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/cpp.svg" title="C++" width="35"> </a>
-
-- Extras:
-
-&nbsp; &nbsp;<a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/git.svg"  title="Git" width="35"> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vscode.svg"  title="Visual Studio Code" width="35"> </a>
-<a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/mongodb.svg" title="MongoDB" width="35"> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ubuntu.svg"  title="Ubuntu (Linux)" width="35"> </a>
-
-<a href="#-projects">
-<img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
-</a>
-
-## <a href="#-projects"><img src="https://oyepriyansh.pages.dev/745716128281657445.gif" width="40"></a> Projects
-
-<details>
-  <summary> URL Shortener </summary>
-  <br>
-
-- <a href="https://github.com/oyepriyansh/url-shortener"><img src="https://oyepriyansh.pages.dev/5594269661517572.svg"></a>
-
-</details>
-
-Some other of my projects can be found [here](https://github.com/itxpp)
-
-## <a href="#-github-stats"><img src="https://oyepriyansh.pages.dev/526015297887404052.gif" width="40"></a> GitHub Stats
-<a href="#-github-stats">
-
-<a href="#-github-stats"> <img src="github_stats.svg" width="350px"> </a>
-
-<!--
-<a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyepriyansh&layout=compact&theme=radical" width="350px"> </a> 
-
-
-<a href="#-github-stats"> <img src="https://github-readme-stats.vercel.app/api?username=oyepriyansh&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical" width="350px"> </a>  
-
-
-<a href="#-github-stats"> <img src="https://streak-stats.demolab.com?user=oyepriyansh&amp;theme=radical&amp;border_radius=5&amp;fire=FF0000&amp;sideLabels=FFFFFF" width="350px"> </a> -->
-
-<a href="#-lets-connect">
-<img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
-</a>
-
-## <a href="#-lets-connect"><img src="https://oyepriyansh.pages.dev/526015297887404053.gif" width="40"></a> Let's Connect 
-
-<a href="https://instagram.com/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574481.svg"> </a> &nbsp; <a href="https://twitter.com/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574482.svg"> </a>
-  
-<a href="https://youtube.com/@oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574483.svg"> </a> &nbsp; <a href="https://linkedin.com/in/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/4582284679828558.svg"> </a>
-  
-<a href="https://snapchat.com/add/oyepriyansh" target="_blank"> <img src="https://oyepriyansh.pages.dev/515226546563265.svg"> </a> &nbsp; <a href="mailto:hi@priyansh.app" target="_blank"> <img src="https://oyepriyansh.pages.dev/8531582654662574484.svg"> </a>
-
-<a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" width="350px"> </a>
-
-<a href="https://discord.com/invite/AeAjegXn6D" target="_blank"><img src="https://invidget.switchblade.xyz/AeAjegXn6D" width="350px"> 
-
-<a href="#become-a-sponsor"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
-
-## <a href="#become-a-sponsor"><img src="https://oyepriyansh.pages.dev/918555162522583050.gif" width="40"></a>Become a sponsor
-
-<a href="https://github.com/sponsors/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205452.svg"> </a> &nbsp; <a href="https://oyepriyansh.pages.dev/upi"><img src="https://oyepriyansh.pages.dev/2740203457350205458.svg"> </a> &nbsp; <a href="https://buymeacoffee.com/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205453.svg"> </a> &nbsp; <a href="https://ko-fi.com/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205454.svg"> </a> &nbsp; <a href="https://www.paypal.com/paypalme/oyepriyansh" target="_blank"><img src="https://oyepriyansh.pages.dev/2740203457350205455.svg"> 
-
-<a href="#--thank-you"> <img src="https://oyepriyansh.pages.dev/838764339942785051.gif"> </a>
-
-<h2 align="center"> ❤ THANK YOU!</h2>
+<a href="https://twitter.com/oyepriyansh" target="_blank"><img align="center" src="https://oyepriyansh.pages.dev/46252/twitter.svg" alt="Twitter" title="Twitter" height="32" width="40"/></a>
+<a href="https://linkedin.com/in/oyepriyansh" target="_blank"><img align="center" src="https://oyepriyansh.pages.dev/46252/linked.svg" alt="LinkedIn" title="LinkedIn" height="32" width="40"/></a> 
+<a href="https://instagram.com/oyepriyansh" target="_blank"><img align="center" src="https://oyepriyansh.pages.dev/46252/instagram.svg" alt="Instagram" title="Instagram" height="32" width="40"/></a>
+<a href="https://discord.gg/AeAjegXn6D" target="_blank"><img align="center" src="https://oyepriyansh.pages.dev/46252/discord.svg" alt="Discord" title="Discord" height="32" width="40"/></a>
