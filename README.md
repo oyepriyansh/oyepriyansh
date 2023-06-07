@@ -51,7 +51,7 @@ const userDetails = {
 - Extras:
 
 &nbsp; &nbsp;<a href="https://git-scm.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/git.svg"  title="Git" width="35"> </a> <a href="https://code.visualstudio.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/vscode.svg"  title="Visual Studio Code" width="35"> </a>
-<a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/mongodb.svg" title="MongoDB" width="35"> </a> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ubuntu.svg"  title="Ubuntu (Linux)" width="35"> </a>
+<a href="https://mongodb.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/mongodb.svg" title="MongoDB" width="35"> </a> <a href="https://ubuntu.com" target="_blank"> <img src="https://oyepriyansh.pages.dev/skills/ubuntu.svg"  title="Ubuntu (Linux)" width="35"> </a>
 
 <a href="#-projects">
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
