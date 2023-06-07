@@ -30,7 +30,6 @@ const userDetails = {
 - More details on my <a href="https://oyepriyansh.pages.dev" target="_blank"> portfolio</a>.
 
 <!-- <a href="#-about-me"><img src="https://komarev.com/ghpvc/?username=oyepriyansh&style=flat-square&color=000000" height="24px"> </a> -->
-</div>
 
 <a href="#-skills">
 <img src="https://oyepriyansh.pages.dev/838764339942785051.gif">
