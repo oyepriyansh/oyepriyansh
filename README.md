@@ -5,6 +5,8 @@ I'm a passionate self-taught developer from India.
 💻 Find more of my projects [here](http://oye.pages.dev/6f6r5h). <br>
 💌 You can reach me via email at [hi@priyansh.app](mailto:hi@priyansh.app).
 
+<img src="https://oyepriyansh.pages.dev/46252/544.svg" height="35px">
+
 ## Connect with me
 
 <a href="https://oye.pages.dev/t25jq0" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/46252/twitter.svg" alt="https://twitter.com/oyepriyansh" title="https://twitter.com/oyepriyansh" height="32" width="40"/></a>
