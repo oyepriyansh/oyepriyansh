@@ -10,12 +10,11 @@ I'm a passionate self-taught developer from India.
 </div>
 
 <div align="center">
-<img src="assets/pokeball-top.png">
+<img src="assets/pokeball-top.png" width="350px">
 <details>
 <summary>View Profile</summary>
-   <img src="assets/bitmoji.png" width="110">
+   <img src="assets/bitmoji.png" width="110"> <br>
    <img src="assets/typing.svg">
-
 <details>
 <summary>About me</summary>
 <div align="left">
@@ -36,12 +35,12 @@ I'm a passionate self-taught developer from India.
 <details>
 <summary>Status</summary>
 <div>
-    <img src="github_stats.svg" width="280px"><br>
-<a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" width="280px"> </a></div>
+    <img src="github_stats.svg" width="300px"><br>
+<a href="https://discord.com/users/838764339942785051" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" width="300px"> </a></div>
 </details>
 
 </details>
-<img src="assets/pokeball-bottom.png">
+<img src="assets/pokeball-bottom.png" width="350px">
 </div>
 
 <div align="center">
