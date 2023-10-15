@@ -1,0 +1,54 @@
+name: GitHub Stats
+
+on:
+    workflow_dispatch: {}
+
+    schedule:
+        - cron: "0 12 * * *"
+
+    push:
+        branches: [main]
+        paths:
+            - "github-stats/**"
+            - ".github/workflows/github-stats.yml"
+
+defaults:
+    run:
+        working-directory: github-stats
+
+jobs:
+    build:
+        name: Update SVG
+        runs-on: ubuntu-latest
+
+        strategy:
+            matrix:
+                node-version: [14.x]
+
+        steps:
+            - uses: actions/checkout@v2
+
+            - name: Use Node.js ${{ matrix.node-version }}
+              uses: actions/setup-node@v2
+              with:
+                  node-version: ${{ matrix.node-version }}
+                  cache: "npm"
+
+            - name: Install Requirements
+              run: npm install
+
+            - name: Set Git Config
+              run: |
+                  git config --global user.name "github-actions"
+                  git config --global user.email "actions@github.com"
+                  git pull
+            - name: Update Template
+              run: node ./updater.js ${{ github.repository_owner }} dracula
+              env:
+                  BOT_GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+
+            - name: Commit
+              run: |
+                  git add ../github_stats.svg
+                  git commit -m "chore: update stats svg" || echo
+                  git push
