@@ -36,9 +36,9 @@
 <details>
   <summary>Status</summary>
   <div>
-    <a href="#"><img src="github_stats.svg" width="330px"></a><br>
+    <a href="#"><img src="github_stats.svg" width="340px"></a><br>
     <a href="https://discord.com/users/838764339942785051" target="_blank">
-      <img src="https://discord.c99.nl/widget/theme-2/838764339942785051.png" width="330px">
+      <img src="https://lanyard-profile-readme.vercel.app/api/838764339942785051" width="340px">
     </a>
   </div>
 </details>
