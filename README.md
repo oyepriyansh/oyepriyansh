@@ -45,7 +45,15 @@
     </a>
   </div>
 </details>
-  </details>
+
+<details>
+  <summary>Recent Activity</summary>
+  <!--START_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
+</details>
+
+</details>
   <a href="#"><img src="assets/pokeball-bottom.png" width="350px"></a>
 </div>
 <div align="center">
