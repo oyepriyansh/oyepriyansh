@@ -6,7 +6,7 @@
         </termtosvg:template_settings>
         <style type="text/css" id="generated-style">
             <![CDATA[#screen {
-                font-family: 'DejaVu Sans Mono', monospace;
+                font-family: Comic Sans Ms,'DejaVu Sans Mono', monospace;
                 font-style: normal;
                 font-size: 14px;
             }
