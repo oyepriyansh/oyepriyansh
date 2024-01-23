@@ -57,7 +57,7 @@
   <a href="#"><img src="assets/pokeball-bottom.png" width="350px"></a>
 </div>
 <div align="center">
-  <a href="https://x.com/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X" width="70"/></a><a href="https://linkedin.com/in/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Priyansh's Linkedin handle" title="Linkedin" width="30"/></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X" width="70"/></a><a href="https://linkedin.com/in/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Priyansh's Linkedin handle" title="Linkedin" width="30"/></a> &nbsp;&nbsp;
   <a href="https://instagram.com/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/instagram.svg" alt="Priyansh's Instagram handle" title="Instagram" width="30"/></a> &nbsp;&nbsp;
-  <a href="https://discord.gg/AeAjegXn6D" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="DevArna Discord invite" title="Discord" width="30"/></a>
+  <a href="https://discord.com/invite/2aAdfJHSWR" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="DevArna Discord invite" title="Discord" width="30"/></a>
 </div>
