@@ -49,7 +49,7 @@
 <details>
   <summary>Recent Activity</summary>
 
-  <!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
 </details>
 
