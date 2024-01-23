@@ -49,6 +49,12 @@
 <details>
   <summary>Recent Activity</summary>
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#223](https://github.com/oyepriyansh/DevProfiles/pull/223#issuecomment-1903010853) in [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)
+2. 🎉 Merged PR [#224](https://github.com/oyepriyansh/DevProfiles/pull/224) in [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)
+3. 🎉 Merged PR [#12](https://github.com/oyepriyansh/oyepriyansh/pull/12) in [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)
+4. 💪 Opened PR [#12](https://github.com/oyepriyansh/oyepriyansh/pull/12) in [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)
+5. 🗣 Commented on [#223](https://github.com/oyepriyansh/DevProfiles/pull/223#issuecomment-1901790868) in [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)
+<!--END_SECTION:activity-->
 
 </details>
 
