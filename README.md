@@ -50,16 +50,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/github-readme-stats](https://github.com/oyepriyansh/github-readme-stats) **|** [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
+![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/github-readme-streak-stats](https://github.com/oyepriyansh/github-readme-streak-stats) **|** [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim)<br>
+![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#223](https://github.com/oyepriyansh/DevProfiles/pull/223#issuecomment-1906066167) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#226](https://github.com/oyepriyansh/DevProfiles/pull/226) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#226](https://github.com/oyepriyansh/DevProfiles/pull/226#pullrequestreview-1838513592) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#223](https://github.com/oyepriyansh/DevProfiles/pull/223#issuecomment-1903010853) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#224](https://github.com/oyepriyansh/DevProfiles/pull/224) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#224](https://github.com/oyepriyansh/DevProfiles/pull/224#pullrequestreview-1834679793) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#12](https://github.com/oyepriyansh/oyepriyansh/pull/12) **|** [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#12](https://github.com/oyepriyansh/oyepriyansh/pull/12) **|** [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
-![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#223](https://github.com/oyepriyansh/DevProfiles/pull/223#issuecomment-1901790868) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#222](https://github.com/oyepriyansh/DevProfiles/issues/222#issuecomment-1901688287) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#221](https://github.com/oyepriyansh/DevProfiles/pull/221) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
