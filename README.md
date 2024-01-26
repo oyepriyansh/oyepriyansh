@@ -50,6 +50,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#227](https://github.com/oyepriyansh/DevProfiles/pull/227) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#227](https://github.com/oyepriyansh/DevProfiles/pull/227#pullrequestreview-1844970571) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [cvyl/terminal](https://github.com/cvyl/terminal)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/github-readme-stats](https://github.com/oyepriyansh/github-readme-stats) **|** [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
@@ -58,8 +60,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#223](https://github.com/oyepriyansh/DevProfiles/pull/223#issuecomment-1906066167) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#226](https://github.com/oyepriyansh/DevProfiles/pull/226) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#226](https://github.com/oyepriyansh/DevProfiles/pull/226#pullrequestreview-1838513592) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#223](https://github.com/oyepriyansh/DevProfiles/pull/223#issuecomment-1903010853) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
