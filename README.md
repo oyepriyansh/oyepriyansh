@@ -16,7 +16,7 @@
     <summary>See more</summary>
     <a href="#"><img src="assets/bitmoji.png" width="150"></a> <br>
     <a href="#"><img src="assets/typing.svg"></a>
-    <details>
+    <details open>
       <summary>About me</summary>
       <div align="left">
 
@@ -33,7 +33,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Status</summary>
   <div>
     <a href="#"><img src="github_stats.svg" width="340px"></a><br>
@@ -46,7 +46,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
