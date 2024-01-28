@@ -50,6 +50,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Rishit-dagli/Rishit-dagli](https://github.com/Rishit-dagli/Rishit-dagli)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#227](https://github.com/oyepriyansh/DevProfiles/pull/227) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#227](https://github.com/oyepriyansh/DevProfiles/pull/227#pullrequestreview-1844970571) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)<br>
@@ -59,7 +60,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [cpea2506/one_monokai.nvim](https://github.com/cpea2506/one_monokai.nvim)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#223](https://github.com/oyepriyansh/DevProfiles/pull/223#issuecomment-1906066167) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#226](https://github.com/oyepriyansh/DevProfiles/pull/226) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
