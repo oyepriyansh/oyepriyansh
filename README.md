@@ -50,6 +50,9 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Vendicated/Vencord](https://github.com/Vendicated/Vencord)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#223](https://github.com/oyepriyansh/DevProfiles/pull/223) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/lanyard-profile-readme](https://github.com/oyepriyansh/lanyard-profile-readme) **|** [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Rishit-dagli/Rishit-dagli](https://github.com/Rishit-dagli/Rishit-dagli)<br>
@@ -57,9 +60,6 @@
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#227](https://github.com/oyepriyansh/DevProfiles/pull/227#pullrequestreview-1844970571) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [cvyl/terminal](https://github.com/cvyl/terminal)<br>
-![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/github-readme-stats](https://github.com/oyepriyansh/github-readme-stats) **|** [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
-![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/github-readme-streak-stats](https://github.com/oyepriyansh/github-readme-streak-stats) **|** [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
