@@ -50,6 +50,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#6](https://github.com/SpicyDevs/spicydevs.github.io/pull/6#pullrequestreview-1851590091) **|** [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Vendicated/Vencord](https://github.com/Vendicated/Vencord)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#223](https://github.com/oyepriyansh/DevProfiles/pull/223) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
@@ -59,7 +60,6 @@
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#227](https://github.com/oyepriyansh/DevProfiles/pull/227) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#227](https://github.com/oyepriyansh/DevProfiles/pull/227#pullrequestreview-1844970571) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [cvyl/terminal](https://github.com/cvyl/terminal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
