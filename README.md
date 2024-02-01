@@ -50,6 +50,9 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [neovim/neovim](https://github.com/neovim/neovim)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#222](https://github.com/oyepriyansh/DevProfiles/issues/222) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#208](https://github.com/oyepriyansh/DevTweet/pull/208) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#208](https://github.com/oyepriyansh/DevTweet/pull/208) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#6](https://github.com/SpicyDevs/spicydevs.github.io/pull/6#pullrequestreview-1851590091) **|** [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
@@ -57,9 +60,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#223](https://github.com/oyepriyansh/DevProfiles/pull/223) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/lanyard-profile-readme](https://github.com/oyepriyansh/lanyard-profile-readme) **|** [cnrad/lanyard-profile-readme](https://github.com/cnrad/lanyard-profile-readme)<br>
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Rishit-dagli/Rishit-dagli](https://github.com/Rishit-dagli/Rishit-dagli)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#227](https://github.com/oyepriyansh/DevProfiles/pull/227) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
