@@ -40,7 +40,7 @@
     <a href="https://discord.com/users/838764339942785051" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/838764339942785051" width="340px">
     </a> <br>
-    <a href="https://open.spotify.com/user/31avju6qooefrvmgopx3xm62m624" target="_blank">
+    <a href="https://open.spotify.com/playlist/61FVEPQTp0tU6ELzbvVMer?si=d8e96652bf8f44f1" target="_blank">
       <img src="https://spotifyoyepriyansh.vercel.app/api?theme=dark&spin=true&scan=false&rainbow=false" width="340px">
     </a>
   </div>
