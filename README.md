@@ -50,16 +50,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#211](https://github.com/oyepriyansh/DevTweet/pull/211#issuecomment-1926215687) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#210](https://github.com/oyepriyansh/DevTweet/pull/210) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#205](https://github.com/oyepriyansh/DevTweet/pull/205) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#197](https://github.com/oyepriyansh/DevTweet/pull/197) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [DanBot-Hosting/pterodactyl-eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [diced/zipline](https://github.com/diced/zipline)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#6](https://github.com/SpicyDevs/spicydevs.github.io/pull/6) **|** [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#103](https://github.com/oyepriyansh/DevTweet/issues/103#issuecomment-1921559143) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#103](https://github.com/oyepriyansh/DevTweet/issues/103) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [neovim/neovim](https://github.com/neovim/neovim)<br>
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#222](https://github.com/oyepriyansh/DevProfiles/issues/222) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#208](https://github.com/oyepriyansh/DevTweet/pull/208) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#208](https://github.com/oyepriyansh/DevTweet/pull/208) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#6](https://github.com/SpicyDevs/spicydevs.github.io/pull/6#pullrequestreview-1851590091) **|** [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
