@@ -49,16 +49,16 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#211](https://github.com/oyepriyansh/DevTweet/pull/211#issuecomment-1926215687) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#210](https://github.com/oyepriyansh/DevTweet/pull/210) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#205](https://github.com/oyepriyansh/DevTweet/pull/205) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#197](https://github.com/oyepriyansh/DevTweet/pull/197) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [DanBot-Hosting/pterodactyl-eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [diced/zipline](https://github.com/diced/zipline)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#6](https://github.com/SpicyDevs/spicydevs.github.io/pull/6) **|** [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
-![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#103](https://github.com/oyepriyansh/DevTweet/issues/103#issuecomment-1921559143) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#103](https://github.com/oyepriyansh/DevTweet/issues/103) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [aunetx/blur-my-shell](https://github.com/aunetx/blur-my-shell)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#231](https://github.com/oyepriyansh/DevProfiles/issues/231) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#232](https://github.com/oyepriyansh/DevProfiles/pull/232) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#232](https://github.com/oyepriyansh/DevProfiles/pull/232#pullrequestreview-1871966467) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![changes_requested](https://oyepriyansh.pages.dev/i/octicons/RequestedChanges.svg) [#232](https://github.com/oyepriyansh/DevProfiles/pull/232#pullrequestreview-1871941870) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#232](https://github.com/oyepriyansh/DevProfiles/pull/232#issuecomment-1935564812) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#231](https://github.com/oyepriyansh/DevProfiles/issues/231#issuecomment-1935551052) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#229](https://github.com/oyepriyansh/DevProfiles/issues/229) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#230](https://github.com/oyepriyansh/DevProfiles/pull/230) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#230](https://github.com/oyepriyansh/DevProfiles/pull/230#pullrequestreview-1871921488) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#229](https://github.com/oyepriyansh/DevProfiles/issues/229#issuecomment-1935497104) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
