@@ -1,7 +1,7 @@
 settings:
     username: "oyepriyansh"
     commit_msg: "chore: update recent activity"
-    max_lines: 10
+    max_lines: 15
     line_prefix: ""
     readme_file: "README.md"
     disabled_events:
