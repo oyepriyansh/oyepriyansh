@@ -84,6 +84,6 @@
   <a href="https://twitter.com/oyepriyansh" target="blank"><img align="center" src="https://priyan.sh.gg/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X"/></a>
   <a href="https://linkedin.com/in/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Priyansh's Linkedin handle" title="Linkedin"/></a> 
   <a href="https://instagram.com/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/instagram.svg" alt="Priyansh's Instagram handle" title="Instagram"/></a>
-  <a href="https://discord.com/invite/2aAdfJHSWR" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="DevArna Discord invite" title="Discord"/></a>
+  <a href="https://discord.com/invite/AeAjegXn6D" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="DevArna Discord invite" title="Discord"/></a>
 </div>
 
