@@ -49,6 +49,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [SX-9/3d-virtual-world](https://github.com/SX-9/3d-virtual-world)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#212](https://github.com/oyepriyansh/DevTweet/pull/212) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#214](https://github.com/oyepriyansh/DevTweet/pull/214) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#216](https://github.com/oyepriyansh/DevTweet/pull/216) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
@@ -62,8 +64,6 @@
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#237](https://github.com/oyepriyansh/DevProfiles/pull/237#pullrequestreview-1879229433) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#236](https://github.com/oyepriyansh/DevProfiles/pull/236) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#236](https://github.com/oyepriyansh/DevProfiles/pull/236#pullrequestreview-1873552991) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#236](https://github.com/oyepriyansh/DevProfiles/pull/236#discussion_r1484998955) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![changes_requested](https://oyepriyansh.pages.dev/i/octicons/RequestedChanges.svg) [#236](https://github.com/oyepriyansh/DevProfiles/pull/236#pullrequestreview-1873491767) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
