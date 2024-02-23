@@ -49,6 +49,12 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
+![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/.github](https://github.com/PriyanshOrg/.github)<br>
+![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/.github](https://github.com/PriyanshOrg/.github)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Shubh0405/automate_spotify_login](https://github.com/Shubh0405/automate_spotify_login)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [My-Discord-Labs/Yumiko](https://github.com/My-Discord-Labs/Yumiko)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [SX-9/3d-virtual-world](https://github.com/SX-9/3d-virtual-world)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#212](https://github.com/oyepriyansh/DevTweet/pull/212) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
@@ -58,12 +64,6 @@
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [gordonnl/pablotheflamingo](https://github.com/gordonnl/pablotheflamingo)<br>
-![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/pablotheflamingo](https://github.com/oyepriyansh/pablotheflamingo) **|** [gordonnl/pablotheflamingo](https://github.com/gordonnl/pablotheflamingo)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [feross/magickeyboard.io](https://github.com/feross/magickeyboard.io)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#237](https://github.com/oyepriyansh/DevProfiles/pull/237) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#237](https://github.com/oyepriyansh/DevProfiles/pull/237#pullrequestreview-1879229433) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#236](https://github.com/oyepriyansh/DevProfiles/pull/236) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#236](https://github.com/oyepriyansh/DevProfiles/pull/236#pullrequestreview-1873552991) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
