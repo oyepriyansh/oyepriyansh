@@ -50,6 +50,8 @@
 
 <!--RECENT_ACTIVITY:start-->
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
+![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/PriyanshOrg](https://github.com/PriyanshOrg/PriyanshOrg)<br>
+![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/.github](https://github.com/PriyanshOrg/.github)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/.github](https://github.com/PriyanshOrg/.github)<br>
@@ -62,8 +64,6 @@
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#216](https://github.com/oyepriyansh/DevTweet/pull/216) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#217](https://github.com/oyepriyansh/DevTweet/pull/217) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [gordonnl/pablotheflamingo](https://github.com/gordonnl/pablotheflamingo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
