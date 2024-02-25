@@ -49,6 +49,9 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [willin/fediverse-alias](https://github.com/willin/fediverse-alias)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [willin/alias](https://github.com/willin/alias)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [joemccann/dillinger](https://github.com/joemccann/dillinger)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/PriyanshOrg](https://github.com/PriyanshOrg/PriyanshOrg)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
@@ -61,9 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#212](https://github.com/oyepriyansh/DevTweet/pull/212) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#214](https://github.com/oyepriyansh/DevTweet/pull/214) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#216](https://github.com/oyepriyansh/DevTweet/pull/216) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#217](https://github.com/oyepriyansh/DevTweet/pull/217) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [SpicyDevs/spicydevs.github.io](https://github.com/SpicyDevs/spicydevs.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
