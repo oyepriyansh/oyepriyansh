@@ -49,6 +49,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Olivr/free-domain](https://github.com/Olivr/free-domain)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [willin/fediverse-alias](https://github.com/willin/fediverse-alias)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [willin/alias](https://github.com/willin/alias)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [joemccann/dillinger](https://github.com/joemccann/dillinger)<br>
@@ -63,7 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [SX-9/3d-virtual-world](https://github.com/SX-9/3d-virtual-world)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#212](https://github.com/oyepriyansh/DevTweet/pull/212) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#214](https://github.com/oyepriyansh/DevTweet/pull/214) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
