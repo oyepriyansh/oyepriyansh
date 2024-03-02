@@ -49,6 +49,9 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#218](https://github.com/oyepriyansh/DevTweet/pull/218#issuecomment-1974322960) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
+![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/Social-Media](https://github.com/oyepriyansh/Social-Media) **|** [jayk-gupta/Social-Media](https://github.com/jayk-gupta/Social-Media)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [jayk-gupta/Social-Media](https://github.com/jayk-gupta/Social-Media)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [vercel/next.js](https://github.com/vercel/next.js)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Olivr/free-domain](https://github.com/Olivr/free-domain)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [willin/fediverse-alias](https://github.com/willin/fediverse-alias)<br>
@@ -61,9 +64,6 @@
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/.github](https://github.com/PriyanshOrg/.github)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/.github](https://github.com/PriyanshOrg/.github)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Shubh0405/automate_spotify_login](https://github.com/Shubh0405/automate_spotify_login)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [My-Discord-Labs/Yumiko](https://github.com/My-Discord-Labs/Yumiko)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [SX-9/3d-virtual-world](https://github.com/SX-9/3d-virtual-world)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Phineas/lanyard](https://github.com/Phineas/lanyard)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
