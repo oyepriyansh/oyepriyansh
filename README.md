@@ -49,6 +49,10 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/vivek9patel.github.io](https://github.com/oyepriyansh/vivek9patel.github.io) **|** [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)<br>
+![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/discord-invite-widget](https://github.com/oyepriyansh/discord-invite-widget) **|** [casperiv0/discord-invite-widget](https://github.com/casperiv0/discord-invite-widget)<br>
+![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/discord-invite-widget](https://github.com/oyepriyansh/discord-invite-widget) **|** [PriyanshOrg/discord-invite-widget](https://github.com/PriyanshOrg/discord-invite-widget)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [casperiv0/discord-invite-widget](https://github.com/casperiv0/discord-invite-widget)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#218](https://github.com/oyepriyansh/DevTweet/pull/218#issuecomment-1974322960) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/Social-Media](https://github.com/oyepriyansh/Social-Media) **|** [jayk-gupta/Social-Media](https://github.com/jayk-gupta/Social-Media)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [jayk-gupta/Social-Media](https://github.com/jayk-gupta/Social-Media)<br>
@@ -60,10 +64,6 @@
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/PriyanshOrg](https://github.com/PriyanshOrg/PriyanshOrg)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/.github](https://github.com/PriyanshOrg/.github)<br>
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/.github](https://github.com/PriyanshOrg/.github)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Shubh0405/automate_spotify_login](https://github.com/Shubh0405/automate_spotify_login)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
