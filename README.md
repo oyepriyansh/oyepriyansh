@@ -49,6 +49,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#219](https://github.com/oyepriyansh/DevTweet/pull/219#issuecomment-1975603025) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/vivek9patel.github.io](https://github.com/oyepriyansh/vivek9patel.github.io) **|** [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/discord-invite-widget](https://github.com/oyepriyansh/discord-invite-widget) **|** [casperiv0/discord-invite-widget](https://github.com/casperiv0/discord-invite-widget)<br>
@@ -63,7 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [willin/alias](https://github.com/willin/alias)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [joemccann/dillinger](https://github.com/joemccann/dillinger)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/PriyanshOrg](https://github.com/PriyanshOrg/PriyanshOrg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
