@@ -49,6 +49,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/contributors-img](https://github.com/oyepriyansh/contributors-img) **|** [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#238](https://github.com/oyepriyansh/DevProfiles/issues/238#issuecomment-1986859220) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)<br>
@@ -63,7 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [jayk-gupta/Social-Media](https://github.com/jayk-gupta/Social-Media)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [vercel/next.js](https://github.com/vercel/next.js)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Olivr/free-domain](https://github.com/Olivr/free-domain)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [willin/fediverse-alias](https://github.com/willin/fediverse-alias)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
