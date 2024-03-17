@@ -49,6 +49,12 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [openai/grok](https://github.com/openai/grok)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [shashankrustagi/DynamicProgramming](https://github.com/shashankrustagi/DynamicProgramming)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [dsheeler/CoverflowAltTab](https://github.com/dsheeler/CoverflowAltTab)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [microsoft/vscode](https://github.com/microsoft/vscode)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/contributors-img](https://github.com/oyepriyansh/contributors-img) **|** [lacolaco/contributors-img](https://github.com/lacolaco/contributors-img)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#238](https://github.com/oyepriyansh/DevProfiles/issues/238#issuecomment-1986859220) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
@@ -58,12 +64,6 @@
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/vivek9patel.github.io](https://github.com/oyepriyansh/vivek9patel.github.io) **|** [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/discord-invite-widget](https://github.com/oyepriyansh/discord-invite-widget) **|** [casperiv0/discord-invite-widget](https://github.com/casperiv0/discord-invite-widget)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/discord-invite-widget](https://github.com/oyepriyansh/discord-invite-widget) **|** [PriyanshOrg/discord-invite-widget](https://github.com/PriyanshOrg/discord-invite-widget)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [casperiv0/discord-invite-widget](https://github.com/casperiv0/discord-invite-widget)<br>
-![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#218](https://github.com/oyepriyansh/DevTweet/pull/218#issuecomment-1974322960) **|** [oyepriyansh/DevTweet](https://github.com/oyepriyansh/DevTweet)<br>
-![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/Social-Media](https://github.com/oyepriyansh/Social-Media) **|** [jayk-gupta/Social-Media](https://github.com/jayk-gupta/Social-Media)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [jayk-gupta/Social-Media](https://github.com/jayk-gupta/Social-Media)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [vercel/next.js](https://github.com/vercel/next.js)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Olivr/free-domain](https://github.com/Olivr/free-domain)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
