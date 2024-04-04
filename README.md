@@ -49,6 +49,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#239](https://github.com/oyepriyansh/DevProfiles/pull/239) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#239](https://github.com/oyepriyansh/DevProfiles/pull/239#pullrequestreview-1971696104) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [stitionai/devika](https://github.com/stitionai/devika)<br>
@@ -62,8 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [dsheeler/CoverflowAltTab](https://github.com/dsheeler/CoverflowAltTab)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
