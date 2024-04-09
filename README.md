@@ -49,6 +49,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [coder/code-server](https://github.com/coder/code-server)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#240](https://github.com/oyepriyansh/DevProfiles/pull/240) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#240](https://github.com/oyepriyansh/DevProfiles/pull/240#pullrequestreview-1984488842) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
@@ -63,7 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [xai-org/grok-1](https://github.com/xai-org/grok-1)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [openai/grok](https://github.com/openai/grok)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [shashankrustagi/DynamicProgramming](https://github.com/shashankrustagi/DynamicProgramming)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
