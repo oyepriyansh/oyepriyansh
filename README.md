@@ -39,7 +39,7 @@
     <a href="https://discord.com/users/838764339942785051" target="_blank">
       <img src="https://oyepriyansh.pages.dev/9d5grh" width="355px">
     </a> <br>
-    <a href="https://open.spotify.com/playlist/61FVEPQTp0tU6ELzbvVMer" target="_blank">
+    <a href="https://open.spotify.com/user/31avju6qooefrvmgopx3xm62m624" target="_blank">
       <img src="https://oyepriyansh.pages.dev/fb954dg" width="355px">
     </a>
   </div>
