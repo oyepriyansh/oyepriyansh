@@ -49,6 +49,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
+![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [coder/code-server](https://github.com/coder/code-server)<br>
@@ -62,8 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [stitionai/devika](https://github.com/stitionai/devika)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [facebook/react](https://github.com/facebook/react)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [nodejs/node](https://github.com/nodejs/node)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [refined-github/refined-github](https://github.com/refined-github/refined-github)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [xai-org/grok-1](https://github.com/xai-org/grok-1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
