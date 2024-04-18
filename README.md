@@ -49,6 +49,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [JuanPabloDiaz/freeForGeeks](https://github.com/JuanPabloDiaz/freeForGeeks)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
 ![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
@@ -63,7 +64,6 @@
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#239](https://github.com/oyepriyansh/DevProfiles/pull/239) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#239](https://github.com/oyepriyansh/DevProfiles/pull/239#pullrequestreview-1971696104) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [stitionai/devika](https://github.com/stitionai/devika)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [facebook/react](https://github.com/facebook/react)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
