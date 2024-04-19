@@ -49,6 +49,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [KillYoy/DiscordNight](https://github.com/KillYoy/DiscordNight)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [videojs/video.js](https://github.com/videojs/video.js)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [JuanPabloDiaz/freeForGeeks](https://github.com/JuanPabloDiaz/freeForGeeks)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
@@ -62,8 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#239](https://github.com/oyepriyansh/DevProfiles/pull/239) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#239](https://github.com/oyepriyansh/DevProfiles/pull/239#pullrequestreview-1971696104) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [stitionai/devika](https://github.com/stitionai/devika)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
