@@ -49,6 +49,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [devarshishimpi/staticstorm](https://github.com/devarshishimpi/staticstorm)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [KillYoy/DiscordNight](https://github.com/KillYoy/DiscordNight)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [videojs/video.js](https://github.com/videojs/video.js)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
@@ -63,7 +64,6 @@
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#240](https://github.com/oyepriyansh/DevProfiles/pull/240#pullrequestreview-1984488842) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [spicetify/spicetify-marketplace](https://github.com/spicetify/spicetify-marketplace)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#239](https://github.com/oyepriyansh/DevProfiles/pull/239) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
