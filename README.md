@@ -49,6 +49,9 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#241](https://github.com/oyepriyansh/DevProfiles/issues/241) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [priyankarpal/ts-express-prisma-postgresql-boilerplate](https://github.com/priyankarpal/ts-express-prisma-postgresql-boilerplate)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [MFDGaming/ubuntu-in-termux](https://github.com/MFDGaming/ubuntu-in-termux)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [google/styleguide](https://github.com/google/styleguide)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [wdhdev/global-chat](https://github.com/wdhdev/global-chat)<br>
@@ -61,9 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
 ![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [coder/code-server](https://github.com/coder/code-server)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
