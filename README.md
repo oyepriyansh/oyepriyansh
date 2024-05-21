@@ -49,6 +49,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#242](https://github.com/oyepriyansh/DevProfiles/pull/242) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#242](https://github.com/oyepriyansh/DevProfiles/pull/242#pullrequestreview-2067984509) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#241](https://github.com/oyepriyansh/DevProfiles/issues/241) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [priyankarpal/ts-express-prisma-postgresql-boilerplate](https://github.com/priyankarpal/ts-express-prisma-postgresql-boilerplate)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)<br>
@@ -62,8 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [JuanPabloDiaz/freeForGeeks](https://github.com/JuanPabloDiaz/freeForGeeks)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)<br>
-![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
