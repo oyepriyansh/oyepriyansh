@@ -49,6 +49,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [StarKnightt/PasswordManager](https://github.com/StarKnightt/PasswordManager)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Annihil/github-spray](https://github.com/Annihil/github-spray)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#242](https://github.com/oyepriyansh/DevProfiles/pull/242) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
@@ -63,7 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [devarshishimpi/staticstorm](https://github.com/devarshishimpi/staticstorm)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [KillYoy/DiscordNight](https://github.com/KillYoy/DiscordNight)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [videojs/video.js](https://github.com/videojs/video.js)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
