@@ -49,6 +49,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [nektos/act](https://github.com/nektos/act)<br>
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#244](https://github.com/oyepriyansh/DevProfiles/issues/244) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v1.0.0](https://github.com/oyepriyansh/DevProfiles/releases/tag/v1.0.0) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#241](https://github.com/oyepriyansh/DevProfiles/issues/241#issuecomment-2148753929) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#243](https://github.com/oyepriyansh/DevProfiles/pull/243) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
@@ -62,8 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [priyankarpal/ts-express-prisma-postgresql-boilerplate](https://github.com/priyankarpal/ts-express-prisma-postgresql-boilerplate)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [MFDGaming/ubuntu-in-termux](https://github.com/MFDGaming/ubuntu-in-termux)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [google/styleguide](https://github.com/google/styleguide)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [wdhdev/global-chat](https://github.com/wdhdev/global-chat)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
