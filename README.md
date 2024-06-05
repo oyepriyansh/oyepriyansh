@@ -49,6 +49,10 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v1.0.0](https://github.com/oyepriyansh/DevProfiles/releases/tag/v1.0.0) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#241](https://github.com/oyepriyansh/DevProfiles/issues/241#issuecomment-2148753929) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#243](https://github.com/oyepriyansh/DevProfiles/pull/243) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#243](https://github.com/oyepriyansh/DevProfiles/pull/243#issuecomment-2148753102) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [StarKnightt/PasswordManager](https://github.com/StarKnightt/PasswordManager)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Annihil/github-spray](https://github.com/Annihil/github-spray)<br>
@@ -60,10 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [MFDGaming/ubuntu-in-termux](https://github.com/MFDGaming/ubuntu-in-termux)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [google/styleguide](https://github.com/google/styleguide)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [wdhdev/global-chat](https://github.com/wdhdev/global-chat)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [devarshishimpi/staticstorm](https://github.com/devarshishimpi/staticstorm)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [KillYoy/DiscordNight](https://github.com/KillYoy/DiscordNight)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [videojs/video.js](https://github.com/videojs/video.js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
