@@ -49,6 +49,10 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [arikchakma/maily.to](https://github.com/arikchakma/maily.to)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [arikchakma/maily.to](https://github.com/arikchakma/maily.to)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [shashankrustagi/DSA-IITD-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [shashankrustagi/DSA-IITD-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [amaan8429/next-clean](https://github.com/amaan8429/next-clean)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [swc-project/swc](https://github.com/swc-project/swc)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [nektos/act](https://github.com/nektos/act)<br>
@@ -60,10 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [StarKnightt/PasswordManager](https://github.com/StarKnightt/PasswordManager)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Annihil/github-spray](https://github.com/Annihil/github-spray)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#242](https://github.com/oyepriyansh/DevProfiles/pull/242) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#242](https://github.com/oyepriyansh/DevProfiles/pull/242#pullrequestreview-2067984509) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#241](https://github.com/oyepriyansh/DevProfiles/issues/241) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [priyankarpal/ts-express-prisma-postgresql-boilerplate](https://github.com/priyankarpal/ts-express-prisma-postgresql-boilerplate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
