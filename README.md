@@ -49,6 +49,9 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/coolify](https://github.com/oyepriyansh/coolify) **|** [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [requarks/wiki](https://github.com/requarks/wiki)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [arikchakma/maily.to](https://github.com/arikchakma/maily.to)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [arikchakma/maily.to](https://github.com/arikchakma/maily.to)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [shashankrustagi/DSA-IITD-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg)<br>
@@ -61,9 +64,6 @@
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#241](https://github.com/oyepriyansh/DevProfiles/issues/241#issuecomment-2148753929) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#243](https://github.com/oyepriyansh/DevProfiles/pull/243) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#243](https://github.com/oyepriyansh/DevProfiles/pull/243#issuecomment-2148753102) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [StarKnightt/PasswordManager](https://github.com/StarKnightt/PasswordManager)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Arindam200/makaut_buddy](https://github.com/Arindam200/makaut_buddy)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Annihil/github-spray](https://github.com/Annihil/github-spray)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
