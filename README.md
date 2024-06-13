@@ -49,6 +49,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/coolify](https://github.com/oyepriyansh/coolify) **|** [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [requarks/wiki](https://github.com/requarks/wiki)<br>
@@ -62,8 +64,6 @@
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#244](https://github.com/oyepriyansh/DevProfiles/issues/244) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v1.0.0](https://github.com/oyepriyansh/DevProfiles/releases/tag/v1.0.0) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#241](https://github.com/oyepriyansh/DevProfiles/issues/241#issuecomment-2148753929) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#243](https://github.com/oyepriyansh/DevProfiles/pull/243) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#243](https://github.com/oyepriyansh/DevProfiles/pull/243#issuecomment-2148753102) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
