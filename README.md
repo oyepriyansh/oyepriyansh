@@ -7,7 +7,7 @@
    
   ✨ Learn more about me on [oyepriyansh.github.io](https://oyepriyansh.github.io). <br>
   💻 Find more of my projects: [github.com/oyepriyansh/repositories](https://github.com/oyepriyansh?tab=repositories). <br>
-  💌 You can reach me via email at [oyepriyansh@outlook.com](mailto:oyepriyansh@outlook.com).
+  💌 You can reach me via email at [oyepriyansh@duck.com](mailto:oyepriyansh@duck.com).
 </div>
 
 <div align="center">
