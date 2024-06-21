@@ -49,6 +49,11 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#246](https://github.com/oyepriyansh/DevProfiles/issues/246) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#241](https://github.com/oyepriyansh/DevProfiles/issues/241) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#245](https://github.com/oyepriyansh/DevProfiles/pull/245) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#245](https://github.com/oyepriyansh/DevProfiles/pull/245) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)<br>
@@ -59,11 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [requarks/wiki](https://github.com/requarks/wiki)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [arikchakma/maily.to](https://github.com/arikchakma/maily.to)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [arikchakma/maily.to](https://github.com/arikchakma/maily.to)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [shashankrustagi/DSA-IITD-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [shashankrustagi/DSA-IITD-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [amaan8429/next-clean](https://github.com/amaan8429/next-clean)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [swc-project/swc](https://github.com/swc-project/swc)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [nektos/act](https://github.com/nektos/act)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
