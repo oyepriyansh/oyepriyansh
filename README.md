@@ -49,6 +49,10 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#194](https://github.com/oyepriyansh/DevProfiles/pull/194#issuecomment-2183899565) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#247](https://github.com/oyepriyansh/DevProfiles/pull/247) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#247](https://github.com/oyepriyansh/DevProfiles/pull/247#pullrequestreview-2133264516) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v1.1.0](https://github.com/oyepriyansh/DevProfiles/releases/tag/v1.1.0) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#246](https://github.com/oyepriyansh/DevProfiles/issues/246) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#241](https://github.com/oyepriyansh/DevProfiles/issues/241) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
@@ -60,10 +64,6 @@
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/coolify](https://github.com/oyepriyansh/coolify) **|** [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [requarks/wiki](https://github.com/requarks/wiki)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [arikchakma/maily.to](https://github.com/arikchakma/maily.to)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [arikchakma/maily.to](https://github.com/arikchakma/maily.to)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
