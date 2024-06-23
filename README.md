@@ -49,6 +49,10 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#250](https://github.com/oyepriyansh/DevProfiles/issues/250) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#249](https://github.com/oyepriyansh/DevProfiles/pull/249) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#249](https://github.com/oyepriyansh/DevProfiles/pull/249#pullrequestreview-2134205209) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#248](https://github.com/oyepriyansh/DevProfiles/pull/248) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) [#194](https://github.com/oyepriyansh/DevProfiles/pull/194#issuecomment-2183899565) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#247](https://github.com/oyepriyansh/DevProfiles/pull/247) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) [#247](https://github.com/oyepriyansh/DevProfiles/pull/247#pullrequestreview-2133264516) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
@@ -60,10 +64,6 @@
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#245](https://github.com/oyepriyansh/DevProfiles/pull/245) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Pradumnasaraf/open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna)<br>
 ![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
-![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng)<br>
-![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/coolify](https://github.com/oyepriyansh/coolify) **|** [coollabsio/coolify](https://github.com/coollabsio/coolify)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
