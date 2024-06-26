@@ -1,28 +1,29 @@
 settings:
     username: "oyepriyansh"
     commit_msg: "chore: update recent activity"
-    max_lines: 15
+    max_lines: 10
     line_prefix: ""
     readme_file: "README.md"
     disabled_events:
         - "push"
+        - "new_star"
+        - "comments"
+        - "fork_repo"
+        - "changes_approved"
+        - "changes_requested"
+        - "issue_closed"
+        - "pr_closed"
+        - "pr_merged"
+
     url_text: "{REPO}{ID}"
     date:
         timezone: "GMT+0:00"
         text: "> Last Updated: {DATE}"
         format: "dS mmmm, yyyy @ HH:MMtt Z"
 messages:
-    comments: "![comments](https://oyepriyansh.pages.dev/i/octicons/Comment.svg) {ID} **|** {REPO}"
     issue_opened: "![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) {ID} **|** {REPO}"
-    issue_closed: "![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) {ID} **|** {REPO}"
     pr_opened: "![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) {ID} **|** {REPO}"
-    pr_closed: "![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) {ID} **|** {REPO}"
-    pr_merged: "![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) {ID} **|** {REPO}"
     create_repo: "![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) {REPO}"
-    fork_repo: "![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) {FORK} **|** {REPO}"
     wiki_create: "![wiki_create](https://oyepriyansh.pages.dev/i/octicons/Wiki.svg) {WIKI} **|** {REPO}"
     added_member: "![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) {REPO}"
-    changes_approved: "![changes_approved](https://oyepriyansh.pages.dev/i/octicons/ApprovedChanges.svg) {ID} **|** {REPO}"
-    changes_requested: "![changes_requested](https://oyepriyansh.pages.dev/i/octicons/RequestedChanges.svg) {ID} **|** {REPO}"
     new_release: "![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) {ID} **|** {REPO}"
-    new_star: "![new_star](https://oyepriyansh.pages.dev/i/octicons/StarredRepositoryYellow.svg) {REPO}"
