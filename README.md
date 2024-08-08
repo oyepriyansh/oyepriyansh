@@ -60,6 +60,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#14](https://github.com/oyepriyansh/oyepriyansh/issues/14) **|** [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#16](https://github.com/PriyanshOrg/join/issues/16) **|** [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#1](https://github.com/PriyanshOrg/blog/issues/1) **|** [PriyanshOrg/blog](https://github.com/PriyanshOrg/blog)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/Java](https://github.com/oyepriyansh/Java)<br>
@@ -69,7 +70,6 @@
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#255](https://github.com/oyepriyansh/DevProfiles/pull/255) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#254](https://github.com/oyepriyansh/DevProfiles/pull/254) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/excalidraw](https://github.com/oyepriyansh/excalidraw)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
