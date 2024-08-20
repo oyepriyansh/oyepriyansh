@@ -60,6 +60,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#1](https://github.com/oyepriyansh/blog/pull/1) **|** [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
+![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#2](https://github.com/PriyanshOrg/blog/pull/2) **|** [PriyanshOrg/blog](https://github.com/PriyanshOrg/blog)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#14](https://github.com/oyepriyansh/oyepriyansh/issues/14) **|** [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#16](https://github.com/PriyanshOrg/join/issues/16) **|** [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
@@ -68,8 +70,6 @@
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#257](https://github.com/oyepriyansh/DevProfiles/pull/257) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#15](https://github.com/PriyanshOrg/join/issues/15) **|** [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#256](https://github.com/oyepriyansh/DevProfiles/pull/256) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#255](https://github.com/oyepriyansh/DevProfiles/pull/255) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
