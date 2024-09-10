@@ -60,6 +60,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#259](https://github.com/oyepriyansh/DevProfiles/pull/259) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/staticman](https://github.com/oyepriyansh/staticman) **|** [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
@@ -69,7 +70,6 @@
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#2](https://github.com/PriyanshOrg/blog/pull/2) **|** [PriyanshOrg/blog](https://github.com/PriyanshOrg/blog)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#14](https://github.com/oyepriyansh/oyepriyansh/issues/14) **|** [oyepriyansh/oyepriyansh](https://github.com/oyepriyansh/oyepriyansh)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#16](https://github.com/PriyanshOrg/join/issues/16) **|** [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
-![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#1](https://github.com/PriyanshOrg/blog/issues/1) **|** [PriyanshOrg/blog](https://github.com/PriyanshOrg/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
