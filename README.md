@@ -60,6 +60,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#263](https://github.com/oyepriyansh/DevProfiles/pull/263) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#261](https://github.com/oyepriyansh/DevProfiles/pull/261) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/cms](https://github.com/oyepriyansh/cms) **|** [code100x/cms](https://github.com/code100x/cms)<br>
@@ -69,7 +70,6 @@
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/staticman](https://github.com/oyepriyansh/staticman) **|** [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#258](https://github.com/oyepriyansh/DevProfiles/pull/258) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#1](https://github.com/oyepriyansh/blog/pull/1) **|** [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
