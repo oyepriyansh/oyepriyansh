@@ -60,6 +60,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#265](https://github.com/oyepriyansh/DevProfiles/pull/265) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#264](https://github.com/oyepriyansh/DevProfiles/pull/264) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#263](https://github.com/oyepriyansh/DevProfiles/pull/263) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#261](https://github.com/oyepriyansh/DevProfiles/pull/261) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
@@ -68,8 +70,6 @@
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#259](https://github.com/oyepriyansh/DevProfiles/pull/259) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/staticman](https://github.com/oyepriyansh/staticman) **|** [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman)<br>
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#258](https://github.com/oyepriyansh/DevProfiles/pull/258) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
