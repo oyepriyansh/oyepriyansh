@@ -60,6 +60,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/dotfiles](https://github.com/oyepriyansh/dotfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#266](https://github.com/oyepriyansh/DevProfiles/pull/266) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#265](https://github.com/oyepriyansh/DevProfiles/pull/265) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#264](https://github.com/oyepriyansh/DevProfiles/pull/264) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
@@ -69,7 +70,6 @@
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/cms](https://github.com/oyepriyansh/cms) **|** [code100x/cms](https://github.com/code100x/cms)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#260](https://github.com/oyepriyansh/DevProfiles/pull/260) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#259](https://github.com/oyepriyansh/DevProfiles/pull/259) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/blog](https://github.com/oyepriyansh/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
