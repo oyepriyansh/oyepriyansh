@@ -66,7 +66,6 @@
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#264](https://github.com/oyepriyansh/DevProfiles/pull/264) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#263](https://github.com/oyepriyansh/DevProfiles/pull/263) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#261](https://github.com/oyepriyansh/DevProfiles/pull/261) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-![added_member](https://oyepriyansh.pages.dev/i/octicons/People.svg) [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
