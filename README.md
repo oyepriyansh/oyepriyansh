@@ -60,6 +60,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#267](https://github.com/oyepriyansh/DevProfiles/pull/267) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/dotfiles](https://github.com/oyepriyansh/dotfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#266](https://github.com/oyepriyansh/DevProfiles/pull/266) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#265](https://github.com/oyepriyansh/DevProfiles/pull/265) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
