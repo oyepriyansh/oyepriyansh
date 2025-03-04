@@ -60,6 +60,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/win11firstanimation](https://github.com/PriyanshOrg/win11firstanimation)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#5](https://github.com/oyepriyansh/.well-known/pull/5) **|** [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#269](https://github.com/oyepriyansh/DevProfiles/pull/269) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 ![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#268](https://github.com/oyepriyansh/DevProfiles/pull/268) **|** [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
