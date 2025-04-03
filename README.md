@@ -60,7 +60,6 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [PriyanshOrg/win11firstanimation](https://github.com/PriyanshOrg/win11firstanimation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
