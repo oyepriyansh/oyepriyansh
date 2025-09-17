@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "@octokit/rest": "^22.0.0",
+        "@octokit/rest": "^19.0.13",
         "nunjucks": "^3.2.4"
     }
 }

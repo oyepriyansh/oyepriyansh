@@ -35,7 +35,9 @@ jobs:
                   cache: "npm"
 
             - name: Install Requirements
-              run: npm install
+              run: |
+                  cd ..
+                  npm install
 
             - name: Set Git Config
               run: |
