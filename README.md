@@ -63,13 +63,6 @@
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#44](https://github.com/is-a-software/is-a-software/pull/44) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#43](https://github.com/is-a-software/is-a-software/issues/43) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/resume](https://github.com/oyepriyansh/resume)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#21](https://github.com/is-a-software/is-a-software/pull/21) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#20](https://github.com/is-a-software/is-a-software/pull/20) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#20](https://github.com/is-a-software/is-a-software/pull/20) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#19](https://github.com/is-a-software/is-a-software/pull/19) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#18](https://github.com/is-a-software/is-a-software/pull/18) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#18](https://github.com/is-a-software/is-a-software/pull/18) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#17](https://github.com/is-a-software/is-a-software/pull/17) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
