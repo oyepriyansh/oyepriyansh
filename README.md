@@ -1,30 +1,20 @@
 <div align="center">
-  <h1>👋 Hi, I'm Priyansh Prajapat</h1>
-  <b>I'm a passionate developer from India.</b>
-</div>
-
-<div align="center">
-   
-  ✨ Learn more about me on [oyepriyansh.github.io](https://oyepriyansh.github.io). <br>
-  💻 Find more of my projects: [github.com/oyepriyansh/repositories](https://github.com/oyepriyansh?tab=repositories). <br>
-  💌 You can reach me via email at [oyepriyansh@duck.com](mailto:oyepriyansh@duck.com).
-</div>
-
-<div align="center">
-  <a href="https://twitter.com/oyepriyansh" target="blank"><img align="center" src="https://priyan.sh.gg/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X"/></a>
-  <a href="https://linkedin.com/in/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Priyansh's Linkedin handle" title="Linkedin"/></a> 
-  <a href="https://instagram.com/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/instagram.svg" alt="Priyansh's Instagram handle" title="Instagram"/></a>
-  <a href="https://discord.com/invite/AeAjegXn6D" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="DevArna Discord invite" title="Discord"/></a>
-</div> 
-<br>
-<div align="center">
   <a href="#"><img src="assets/pokeball-top.png" width="370px" height="170px"></a>
   <details>
-    <summary>See more</summary>
+    <summary>open this</summary>
     <a href="#"><img src="assets/bitmoji.png" width="150"></a> <br>
     <a href="#"><img src="assets/typing.svg"></a>
     <details open>
       <summary>About me</summary>
+      <div align="center">
+   
+  ✨ Learn more about me on [oyepriyansh.github.io](https://oyepriyansh.github.io). <br>
+  💌 You can reach me via email at [priyanshprajapat@duck.com](mailto:priyanshprajapat@duck.com).
+</div>
+  <a href="https://twitter.com/oyepriyansh" target="blank"><img align="center" src="https://priyan.sh.gg/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X"/></a>
+  <a href="https://linkedin.com/in/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="Priyansh's Linkedin handle" title="Linkedin"/></a> 
+  <a href="https://instagram.com/oyepriyansh" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/instagram.svg" alt="Priyansh's Instagram handle" title="Instagram"/></a>
+  <a href="https://discord.com/invite/AeAjegXn6D" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/discord.svg" alt="DevArna Discord invite" title="Discord"/></a>
       <div align="left">
 
 ```javascript
