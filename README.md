@@ -8,7 +8,7 @@
       <summary>About me</summary>
       <div align="center">
    
-  ✨ Learn more about me on [oyepriyansh.github.io](https://oyepriyansh.github.io). <br>
+  ✨ Learn more about me on [prajapatpriyansh.github.io](https://prajapatpriyansh.github.io). <br>
   💌 You can reach me via email at [priyanshprajapat@duck.com](mailto:priyanshprajapat@duck.com).
 </div>
   <a href="https://twitter.com/oyepriyansh" target="blank"><img align="center" src="https://priyan.sh.gg/assets/github/readme/twitter.svg" alt="Priyansh's X handle" title="X"/></a>
