@@ -50,6 +50,9 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#44](https://github.com/is-a-software/is-a-software/pull/44) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#43](https://github.com/is-a-software/is-a-software/issues/43) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/resume](https://github.com/oyepriyansh/resume)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
