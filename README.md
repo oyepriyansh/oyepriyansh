@@ -50,13 +50,12 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#7](https://github.com/oyepriyansh/.well-known/pull/7) **|** [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
+![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#7](undefined) **|** [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#48](https://github.com/PriyanshOrg/join/issues/48) **|** [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#1](https://github.com/PriyanshOrg/PriyanshOrg.github.io/issues/1) **|** [PriyanshOrg/PriyanshOrg.github.io](https://github.com/PriyanshOrg/PriyanshOrg.github.io)<br>
-![pr_merged](https://oyepriyansh.pages.dev/i/octicons/PullRequestMerged.svg) [#1](https://github.com/oyepriyansh/oyepriyansh.github.io/pull/1) **|** [oyepriyansh/oyepriyansh.github.io](https://github.com/oyepriyansh/oyepriyansh.github.io)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#1](https://github.com/oyepriyansh/oyepriyansh.github.io/pull/1) **|** [oyepriyansh/oyepriyansh.github.io](https://github.com/oyepriyansh/oyepriyansh.github.io)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#44](https://github.com/is-a-software/is-a-software/pull/44) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#1](undefined) **|** [oyepriyansh/oyepriyansh.github.io](https://github.com/oyepriyansh/oyepriyansh.github.io)<br>
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#44](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#43](https://github.com/is-a-software/is-a-software/issues/43) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![create_repo](https://oyepriyansh.pages.dev/i/octicons/Repository.svg) [oyepriyansh/resume](https://github.com/oyepriyansh/resume)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
