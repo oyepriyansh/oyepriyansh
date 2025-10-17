@@ -55,7 +55,6 @@
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#1](https://github.com/PriyanshOrg/PriyanshOrg.github.io/issues/1) **|** [PriyanshOrg/PriyanshOrg.github.io](https://github.com/PriyanshOrg/PriyanshOrg.github.io)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#1](undefined) **|** [oyepriyansh/oyepriyansh.github.io](https://github.com/oyepriyansh/oyepriyansh.github.io)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#44](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#43](https://github.com/is-a-software/is-a-software/issues/43) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
