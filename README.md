@@ -50,6 +50,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#53](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#52](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v1.0](https://github.com/is-a-software/is-a-software/releases/tag/v1.0) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#7](undefined) **|** [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#48](https://github.com/PriyanshOrg/join/issues/48) **|** [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
