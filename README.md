@@ -50,6 +50,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/kanadojo](https://github.com/oyepriyansh/kanadojo) **|** [oyepriyansh/kanadojo](https://github.com/oyepriyansh/kanadojo)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#54](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#53](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#52](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
