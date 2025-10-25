@@ -50,6 +50,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#60](https://github.com/is-a-software/is-a-software/issues/60) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#59](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/kanadojo](https://github.com/oyepriyansh/kanadojo) **|** [oyepriyansh/kanadojo](https://github.com/oyepriyansh/kanadojo)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#54](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#53](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
@@ -58,7 +60,6 @@
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#7](undefined) **|** [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#48](https://github.com/PriyanshOrg/join/issues/48) **|** [PriyanshOrg/join](https://github.com/PriyanshOrg/join)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#1](https://github.com/PriyanshOrg/PriyanshOrg.github.io/issues/1) **|** [PriyanshOrg/PriyanshOrg.github.io](https://github.com/PriyanshOrg/PriyanshOrg.github.io)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#1](undefined) **|** [oyepriyansh/oyepriyansh.github.io](https://github.com/oyepriyansh/oyepriyansh.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
