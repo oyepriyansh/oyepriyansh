@@ -50,6 +50,7 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#65](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#62](https://github.com/is-a-software/is-a-software/issues/62) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#43](https://github.com/is-a-software/is-a-software/issues/43) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#60](https://github.com/is-a-software/is-a-software/issues/60) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
@@ -59,7 +60,6 @@
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#53](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#52](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v1.0](https://github.com/is-a-software/is-a-software/releases/tag/v1.0) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#7](undefined) **|** [oyepriyansh/.well-known](https://github.com/oyepriyansh/.well-known)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
