@@ -50,6 +50,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v2](https://github.com/is-a-software/is-a-software/releases/tag/v2) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#66](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#65](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#62](https://github.com/is-a-software/is-a-software/issues/62) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#43](https://github.com/is-a-software/is-a-software/issues/43) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
@@ -58,8 +60,6 @@
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/kanadojo](https://github.com/oyepriyansh/kanadojo) **|** [oyepriyansh/kanadojo](https://github.com/oyepriyansh/kanadojo)<br>
 ![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#54](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#53](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#52](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v1.0](https://github.com/is-a-software/is-a-software/releases/tag/v1.0) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
