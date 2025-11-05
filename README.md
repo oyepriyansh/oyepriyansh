@@ -50,6 +50,8 @@
   <summary>Recent Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+![issue_closed](https://oyepriyansh.pages.dev/i/octicons/IssueClosed.svg) [#64](https://github.com/is-a-software/is-a-software/issues/64) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
+![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#67](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![new_release](https://oyepriyansh.pages.dev/i/octicons/Release.svg) [v2](https://github.com/is-a-software/is-a-software/releases/tag/v2) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#66](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#65](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
@@ -58,8 +60,6 @@
 ![issue_opened](https://oyepriyansh.pages.dev/i/octicons/IssueOpened.svg) [#60](https://github.com/is-a-software/is-a-software/issues/60) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#59](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 ![fork_repo](https://oyepriyansh.pages.dev/i/octicons/ForkedRepository.svg) [oyepriyansh/kanadojo](https://github.com/oyepriyansh/kanadojo) **|** [oyepriyansh/kanadojo](https://github.com/oyepriyansh/kanadojo)<br>
-![pr_closed](https://oyepriyansh.pages.dev/i/octicons/PullRequestClosed.svg) [#54](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
-![pr_opened](https://oyepriyansh.pages.dev/i/octicons/PullRequestOpened.svg) [#53](undefined) **|** [is-a-software/is-a-software](https://github.com/is-a-software/is-a-software)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
